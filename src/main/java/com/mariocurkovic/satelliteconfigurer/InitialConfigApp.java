@@ -1,3 +1,8 @@
+package com.mariocurkovic.satelliteconfigurer;
+
+import com.mariocurkovic.satelliteconfigurer.model.Frequency;
+import com.mariocurkovic.satelliteconfigurer.model.Satellite;
+import com.mariocurkovic.satelliteconfigurer.util.Util;
 import org.jsoup.Jsoup;
 import org.jsoup.nodes.Document;
 import org.jsoup.nodes.Element;
@@ -7,9 +12,9 @@ import java.io.IOException;
 import java.util.ArrayList;
 import java.util.List;
 
-public class App {
+public class InitialConfigApp {
 
-	private static final String destination = "/Users/mariocurkovic/Desktop/satellite-configurer/target";
+	private static final String destination = "/Users/mariocurkovic/workspace/mcurkovic/satellite-configurer/src/main/resources/output/dvbchannel_v2.3_initial_config.xml";
 
 	public static void main(String[] args) throws IOException {
 

@@ -1,3 +1,5 @@
+package com.mariocurkovic.satelliteconfigurer.model;
+
 import lombok.Getter;
 import lombok.Setter;
 import lombok.ToString;

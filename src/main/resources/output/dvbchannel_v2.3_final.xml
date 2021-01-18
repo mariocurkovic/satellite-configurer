@@ -1,0 +1,1607 @@
+<?xml version="1.0" encoding="utf-8"?><db>
+    <version winsat_editer="2.3"/>
+    <satellite name="HotBird 13.0E" longitude="130" lof_hi="10600000" lof_lo="9750000" lof_threshold="11700000" lnb_power="13/18v" signal_22khz="auto" toneburst="none" diseqc1_0="lnb1" diseqc1_1="lnb1" motor="none">
+        <transponder original_network_id="318" ts_id="65535" frequency="10719000" symbol_rate="27500000" polarisation="V"/>
+        <transponder original_network_id="318" ts_id="65535" frequency="10727000" symbol_rate="30000000" polarisation="H"/>
+        <transponder original_network_id="318" ts_id="65535" frequency="10758000" symbol_rate="27500000" polarisation="V"/>
+        <transponder original_network_id="318" ts_id="65535" frequency="10775000" symbol_rate="29900000" polarisation="H"/>
+        <transponder original_network_id="318" ts_id="65535" frequency="10796000" symbol_rate="27500000" polarisation="V"/>
+        <transponder original_network_id="318" ts_id="65535" frequency="10815000" symbol_rate="27500000" polarisation="H"/>
+        <transponder original_network_id="318" ts_id="65535" frequency="10834000" symbol_rate="27500000" polarisation="V">
+            <program name="xxxSportklub HD" service_id="3503" channel_number="210" type="1" scrambled="true" parental_lock="false" skip="false" id="4087" plp_id="255" sdt_version="12" default_channnel_num="1505" lcn="3505" fav="0">
+                <video pid="162" format="h264"/>
+                <pcr pid="162"/>
+                <audio pid="88" format="ac3" language="pol"/>
+            </program>
+        </transponder>
+        <transponder original_network_id="318" ts_id="65535" frequency="10853000" symbol_rate="27000000" polarisation="H"/>
+        <transponder original_network_id="176" ts_id="65535" frequency="10873000" symbol_rate="27500000" polarisation="V"/>
+        <transponder original_network_id="318" ts_id="65535" frequency="10892000" symbol_rate="27500000" polarisation="H">
+            <program name="xxxCANAL+ SPORT 3 HD" service_id="4802" channel_number="24" type="1" scrambled="true" parental_lock="false" skip="false" id="4088" plp_id="255" sdt_version="11" default_channnel_num="1545" lcn="3545" fav="0">
+                <video pid="161" format="h264"/>
+                <pcr pid="161"/>
+                <audio pid="84" format="ac3" language="pol"/>
+                <audio pid="85" format="ac3" language="pol"/>
+            </program>
+            <program name="xxxCANAL+ SPORT 4 HD" service_id="4803" channel_number="27" type="1" scrambled="true" parental_lock="false" skip="false" id="4089" plp_id="255" sdt_version="11" default_channnel_num="1546" lcn="3546" fav="0">
+                <video pid="162" format="h264"/>
+                <pcr pid="162"/>
+                <audio pid="88" format="ac3" language="pol"/>
+                <audio pid="89" format="ac3" language="pol"/>
+            </program>
+            <program name="xxxCANAL+ SPORT 3 HD" service_id="4852" channel_number="25" type="1" scrambled="true" parental_lock="false" skip="false" id="4090" plp_id="255" sdt_version="11" default_channnel_num="1556" lcn="3556" fav="0">
+                <video pid="161" format="h264"/>
+                <pcr pid="161"/>
+                <audio pid="84" format="ac3" language="pol"/>
+                <audio pid="85" format="ac3" language="pol"/>
+            </program>
+            <program name="xxxCANAL+ SPORT 3 HD" service_id="4882" channel_number="26" type="1" scrambled="true" parental_lock="false" skip="false" id="4091" plp_id="255" sdt_version="11" default_channnel_num="1558" lcn="3557" fav="0">
+                <video pid="161" format="h264"/>
+                <pcr pid="161"/>
+                <audio pid="84" format="ac3" language="pol"/>
+                <audio pid="85" format="ac3" language="pol"/>
+            </program>
+            <program name="xxxCANAL+ SPORT 4 HD" service_id="4853" channel_number="28" type="1" scrambled="true" parental_lock="false" skip="false" id="4092" plp_id="255" sdt_version="11" default_channnel_num="1557" lcn="3558" fav="0">
+                <video pid="162" format="h264"/>
+                <pcr pid="162"/>
+                <audio pid="88" format="ac3" language="pol"/>
+                <audio pid="89" format="ac3" language="pol"/>
+            </program>
+            <program name="xxxCANAL+ SPORT 4 HD" service_id="4883" channel_number="29" type="1" scrambled="true" parental_lock="false" skip="false" id="4093" plp_id="255" sdt_version="11" default_channnel_num="1559" lcn="3561" fav="0">
+                <video pid="162" format="h264"/>
+                <pcr pid="162"/>
+                <audio pid="88" format="ac3" language="pol"/>
+                <audio pid="89" format="ac3" language="pol"/>
+            </program>
+        </transponder>
+        <transponder original_network_id="318" ts_id="65535" frequency="10911000" symbol_rate="27500000" polarisation="V"/>
+        <transponder original_network_id="318" ts_id="65535" frequency="10930000" symbol_rate="30000000" polarisation="H"/>
+        <transponder original_network_id="318" ts_id="65535" frequency="10949000" symbol_rate="27500000" polarisation="V"/>
+        <transponder original_network_id="318" ts_id="65535" frequency="10971000" symbol_rate="29700000" polarisation="H"/>
+        <transponder original_network_id="318" ts_id="65535" frequency="10992000" symbol_rate="27500000" polarisation="V">
+            <program name="xxxRai 1" service_id="8511" channel_number="90" type="1" scrambled="false" parental_lock="false" skip="false" id="4094" plp_id="255" sdt_version="1" default_channnel_num="1596" lcn="3596" fav="0">
+                <video pid="512" format="mpeg2"/>
+                <pcr pid="512"/>
+                <audio pid="650" format="mpeg" language="ita"/>
+                <audio pid="694" format="mpeg" language="oth"/>
+                <audio pid="699" format="mpeg" language="eng"/>
+            </program>
+        </transponder>
+        <transponder original_network_id="318" ts_id="65535" frequency="11013000" symbol_rate="29900000" polarisation="H"/>
+        <transponder original_network_id="318" ts_id="65535" frequency="11034000" symbol_rate="27500000" polarisation="V"/>
+        <transponder original_network_id="318" ts_id="65535" frequency="11054000" symbol_rate="27500000" polarisation="H"/>
+        <transponder original_network_id="318" ts_id="65535" frequency="11075000" symbol_rate="30000000" polarisation="V"/>
+        <transponder original_network_id="318" ts_id="65535" frequency="11096000" symbol_rate="30000000" polarisation="H"/>
+        <transponder original_network_id="318" ts_id="65535" frequency="11117000" symbol_rate="27500000" polarisation="V"/>
+        <transponder original_network_id="318" ts_id="65535" frequency="11137000" symbol_rate="27500000" polarisation="H"/>
+        <transponder original_network_id="113" ts_id="65535" frequency="11158000" symbol_rate="27500000" polarisation="V"/>
+        <transponder original_network_id="318" ts_id="65535" frequency="11179000" symbol_rate="27500000" polarisation="H"/>
+        <transponder original_network_id="318" ts_id="65535" frequency="11200000" symbol_rate="27500000" polarisation="V"/>
+        <transponder original_network_id="85" ts_id="65535" frequency="11219000" symbol_rate="29900000" polarisation="H"/>
+        <transponder original_network_id="318" ts_id="65535" frequency="11240000" symbol_rate="27500000" polarisation="V"/>
+        <transponder original_network_id="318" ts_id="65535" frequency="11258000" symbol_rate="27500000" polarisation="H"/>
+        <transponder original_network_id="318" ts_id="65535" frequency="11278000" symbol_rate="27500000" polarisation="V">
+            <program name="xxxELEVEN SPORTS 4 HD" service_id="13006" channel_number="55" type="1" scrambled="true" parental_lock="false" skip="false" id="4095" plp_id="255" sdt_version="28" default_channnel_num="1800" lcn="3800" fav="0">
+                <video pid="165" format="h264"/>
+                <pcr pid="165"/>
+                <audio pid="100" format="ac3" language="pol"/>
+            </program>
+            <program name="xxxCANAL+ SPORT HD" service_id="13022" channel_number="30" type="1" scrambled="true" parental_lock="false" skip="false" id="4096" plp_id="255" sdt_version="28" default_channnel_num="1802" lcn="3811" fav="0">
+                <video pid="361" format="h264"/>
+                <pcr pid="361"/>
+                <audio pid="385" format="ac3" language="pol"/>
+                <audio pid="387" format="ac3" language="pol"/>
+            </program>
+            <program name="xxxCANAL+ SPORT HD" service_id="13052" channel_number="31" type="1" scrambled="true" parental_lock="false" skip="false" id="4097" plp_id="255" sdt_version="28" default_channnel_num="1807" lcn="3829" fav="0">
+                <video pid="361" format="h264"/>
+                <pcr pid="361"/>
+                <audio pid="385" format="ac3" language="pol"/>
+                <audio pid="387" format="ac3" language="pol"/>
+            </program>
+        </transponder>
+        <transponder original_network_id="318" ts_id="65535" frequency="11296000" symbol_rate="27500000" polarisation="H"/>
+        <transponder original_network_id="318" ts_id="65535" frequency="11316000" symbol_rate="27500000" polarisation="V"/>
+        <transponder original_network_id="318" ts_id="65535" frequency="11334000" symbol_rate="27500000" polarisation="H"/>
+        <transponder original_network_id="64511" ts_id="65535" frequency="11355000" symbol_rate="29900000" polarisation="V"/>
+        <transponder original_network_id="318" ts_id="65535" frequency="11373000" symbol_rate="27500000" polarisation="H"/>
+        <transponder original_network_id="318" ts_id="65535" frequency="11393000" symbol_rate="27500000" polarisation="V"/>
+        <transponder original_network_id="318" ts_id="65535" frequency="11411000" symbol_rate="27500000" polarisation="H"/>
+        <transponder original_network_id="272" ts_id="65535" frequency="11432000" symbol_rate="29900000" polarisation="V"/>
+        <transponder original_network_id="318" ts_id="65535" frequency="11449000" symbol_rate="27500000" polarisation="H"/>
+        <transponder original_network_id="318" ts_id="65535" frequency="11470000" symbol_rate="27500000" polarisation="V"/>
+        <transponder original_network_id="318" ts_id="65535" frequency="11487000" symbol_rate="27500000" polarisation="H">
+            <program name="xxxEleven Sports 1 HD" service_id="5107" channel_number="46" type="1" scrambled="true" parental_lock="false" skip="false" id="4098" plp_id="255" sdt_version="26" default_channnel_num="1930" lcn="3929" fav="0">
+                <video pid="166" format="h264"/>
+                <pcr pid="166"/>
+                <audio pid="104" format="ac3" language="pol"/>
+            </program>
+            <program name="xxxEleven Sports 2 HD" service_id="5109" channel_number="49" type="1" scrambled="true" parental_lock="false" skip="false" id="4099" plp_id="255" sdt_version="26" default_channnel_num="1931" lcn="3930" fav="0">
+                <video pid="168" format="h264"/>
+                <pcr pid="168"/>
+                <audio pid="112" format="ac3" language="pol"/>
+            </program>
+            <program name="xxxEleven Sports 3 HD" service_id="5112" channel_number="52" type="1" scrambled="true" parental_lock="false" skip="false" id="4100" plp_id="255" sdt_version="26" default_channnel_num="1932" lcn="3931" fav="0">
+                <video pid="171" format="h264"/>
+                <pcr pid="171"/>
+                <audio pid="124" format="ac3" language="pol"/>
+            </program>
+            <program name="xxxCANAL+ SPORT 2 HD" service_id="5102" channel_number="22" type="1" scrambled="true" parental_lock="false" skip="false" id="4101" plp_id="255" sdt_version="26" default_channnel_num="1926" lcn="3932" fav="0">
+                <video pid="161" format="h264"/>
+                <pcr pid="161"/>
+                <audio pid="84" format="ac3" language="pol"/>
+                <audio pid="85" format="ac3" language="pol"/>
+            </program>
+            <program name="xxxCANAL+ SPORT 2 HD" service_id="5152" channel_number="23" type="1" scrambled="true" parental_lock="false" skip="false" id="4102" plp_id="255" sdt_version="26" default_channnel_num="1935" lcn="3935" fav="0">
+                <video pid="161" format="h264"/>
+                <pcr pid="161"/>
+                <audio pid="84" format="ac3" language="pol"/>
+                <audio pid="85" format="ac3" language="pol"/>
+            </program>
+            <program name="xxxEleven Sports 1 HD" service_id="5157" channel_number="47" type="1" scrambled="true" parental_lock="false" skip="false" id="4103" plp_id="255" sdt_version="26" default_channnel_num="1938" lcn="3938" fav="0">
+                <video pid="166" format="h264"/>
+                <pcr pid="166"/>
+                <audio pid="104" format="ac3" language="pol"/>
+            </program>
+            <program name="xxxEleven Sports 2 HD" service_id="5159" channel_number="50" type="1" scrambled="true" parental_lock="false" skip="false" id="4104" plp_id="255" sdt_version="26" default_channnel_num="1939" lcn="3939" fav="0">
+                <video pid="168" format="h264"/>
+                <pcr pid="168"/>
+                <audio pid="112" format="ac3" language="pol"/>
+            </program>
+            <program name="xxxEleven Sports 3 HD" service_id="5182" channel_number="53" type="1" scrambled="true" parental_lock="false" skip="false" id="4105" plp_id="255" sdt_version="26" default_channnel_num="1940" lcn="3940" fav="0">
+                <video pid="171" format="h264"/>
+                <pcr pid="171"/>
+                <audio pid="124" format="ac3" language="pol"/>
+            </program>
+            <program name="xxxEleven Sports 3 HD" service_id="5192" channel_number="54" type="1" scrambled="true" parental_lock="false" skip="false" id="4106" plp_id="255" sdt_version="26" default_channnel_num="1941" lcn="3941" fav="0">
+                <video pid="171" format="h264"/>
+                <pcr pid="171"/>
+                <audio pid="124" format="ac3" language="pol"/>
+            </program>
+            <program name="xxxEleven Sports 1 HD" service_id="5197" channel_number="48" type="1" scrambled="true" parental_lock="false" skip="false" id="4107" plp_id="255" sdt_version="26" default_channnel_num="1942" lcn="3942" fav="0">
+                <video pid="166" format="h264"/>
+                <pcr pid="166"/>
+                <audio pid="104" format="ac3" language="pol"/>
+            </program>
+            <program name="xxxEleven Sports 2 HD" service_id="5199" channel_number="51" type="1" scrambled="true" parental_lock="false" skip="false" id="4108" plp_id="255" sdt_version="26" default_channnel_num="1943" lcn="3943" fav="0">
+                <video pid="168" format="h264"/>
+                <pcr pid="168"/>
+                <audio pid="112" format="ac3" language="pol"/>
+            </program>
+        </transponder>
+        <transponder original_network_id="318" ts_id="65535" frequency="11508000" symbol_rate="27500000" polarisation="V"/>
+        <transponder original_network_id="318" ts_id="65535" frequency="11526000" symbol_rate="29700000" polarisation="H"/>
+        <transponder original_network_id="200" ts_id="65535" frequency="11541000" symbol_rate="22000000" polarisation="V"/>
+        <transponder original_network_id="318" ts_id="65535" frequency="11565000" symbol_rate="29900000" polarisation="H"/>
+        <transponder original_network_id="318" ts_id="65535" frequency="11585000" symbol_rate="27500000" polarisation="V"/>
+        <transponder original_network_id="318" ts_id="65535" frequency="11604000" symbol_rate="27500000" polarisation="H"/>
+        <transponder original_network_id="318" ts_id="65535" frequency="11623000" symbol_rate="27500000" polarisation="V"/>
+        <transponder original_network_id="318" ts_id="65535" frequency="11642000" symbol_rate="27500000" polarisation="H"/>
+        <transponder original_network_id="318" ts_id="65535" frequency="11662000" symbol_rate="27500000" polarisation="V"/>
+        <transponder original_network_id="319" ts_id="65535" frequency="11681000" symbol_rate="27500000" polarisation="H"/>
+        <transponder original_network_id="318" ts_id="65535" frequency="11727000" symbol_rate="29900000" polarisation="V"/>
+        <transponder original_network_id="318" ts_id="65535" frequency="11747000" symbol_rate="27500000" polarisation="H">
+            <program name="xxxSky News Arabia" service_id="9516" channel_number="148" type="1" scrambled="false" parental_lock="false" skip="false" id="4109" plp_id="255" sdt_version="2" default_channnel_num="2076" lcn="4074" fav="0">
+                <video pid="4312" format="h264"/>
+                <pcr pid="4312"/>
+                <audio pid="4313" format="mpeg" language="ara"/>
+                <audio pid="4314" format="dts" language="Audio2"/>
+            </program>
+        </transponder>
+        <transponder original_network_id="318" ts_id="65535" frequency="11766000" symbol_rate="29900000" polarisation="V">
+            <program name="xxxRai 1 HD" service_id="3401" channel_number="91" type="1" scrambled="true" parental_lock="false" skip="false" id="4110" plp_id="255" sdt_version="15" default_channnel_num="2078" lcn="4078" fav="0">
+                <video pid="501" format="h264"/>
+                <pcr pid="501"/>
+                <audio pid="601" format="mpeg" language="ita"/>
+                <audio pid="611" format="ac3" language="oth"/>
+                <audio pid="621" format="mpeg" language="eng"/>
+            </program>
+        </transponder>
+        <transponder original_network_id="64511" ts_id="65535" frequency="11785000" symbol_rate="29900000" polarisation="H">
+            <program name="xxxSky Uno +1 HD" service_id="14266" channel_number="203" type="1" scrambled="true" parental_lock="false" skip="false" id="4111" plp_id="255" sdt_version="11" default_channnel_num="2094" lcn="4094" fav="0">
+                <video pid="160" format="h264"/>
+                <pcr pid="160"/>
+                <audio pid="400" format="ac3" language="ita"/>
+                <audio pid="401" format="ac3" language="und"/>
+                <audio pid="6537" format="dts" language="Audio3"/>
+                <audio pid="6837" format="dts" language="Audio4"/>
+            </program>
+        </transponder>
+        <transponder original_network_id="65535" ts_id="65535" frequency="11804000" symbol_rate="27500000" polarisation="V"/>
+        <transponder original_network_id="318" ts_id="65535" frequency="11823000" symbol_rate="27500000" polarisation="H">
+            <program name="xxxSKAI TV" service_id="326" channel_number="107" type="1" scrambled="true" parental_lock="false" skip="false" id="4112" plp_id="255" sdt_version="10" default_channnel_num="2112" lcn="4117" fav="0">
+                <video pid="523" format="h264"/>
+                <pcr pid="523"/>
+                <audio pid="760" format="mpeg" language="gre"/>
+            </program>
+        </transponder>
+        <transponder original_network_id="64511" ts_id="65535" frequency="11842000" symbol_rate="29900000" polarisation="V">
+            <program name="xxxSky Cinema Due HD" service_id="3564" channel_number="126" type="1" scrambled="true" parental_lock="false" skip="false" id="4113" plp_id="255" sdt_version="17" default_channnel_num="2122" lcn="4122" fav="0">
+                <video pid="167" format="h264"/>
+                <pcr pid="167"/>
+                <audio pid="425" format="ac3" language="ita"/>
+                <audio pid="426" format="ac3" language="und"/>
+                <audio pid="6528" format="dts" language="Audio3"/>
+                <audio pid="6828" format="dts" language="Audio4"/>
+            </program>
+            <program name="xxxSky Sport NBA HD" service_id="7764" channel_number="182" type="1" scrambled="true" parental_lock="false" skip="false" id="4114" plp_id="255" sdt_version="17" default_channnel_num="2125" lcn="4125" fav="0">
+                <video pid="160" format="h264"/>
+                <pcr pid="160"/>
+                <audio pid="400" format="ac3" language="ita"/>
+                <audio pid="401" format="ac3" language="und"/>
+                <audio pid="6543" format="dts" language="Audio3"/>
+                <audio pid="6843" format="dts" language="Audio4"/>
+            </program>
+            <program name="xxxSky Sport America's Cup HD" service_id="7768" channel_number="163" type="1" scrambled="true" parental_lock="false" skip="false" id="4115" plp_id="255" sdt_version="17" default_channnel_num="2126" lcn="4126" fav="0">
+                <video pid="162" format="h264"/>
+                <pcr pid="162"/>
+                <audio pid="404" format="ac3" language="ita"/>
+                <audio pid="405" format="ac3" language="und"/>
+            </program>
+            <program name="xxxSky Sport HD" service_id="7772" channel_number="174" type="1" scrambled="true" parental_lock="false" skip="false" id="4116" plp_id="255" sdt_version="17" default_channnel_num="2128" lcn="4128" fav="0">
+                <video pid="166" format="h264"/>
+                <pcr pid="166"/>
+                <audio pid="412" format="ac3" language="ita"/>
+                <audio pid="413" format="ac3" language="und"/>
+            </program>
+        </transponder>
+        <transponder original_network_id="64511" ts_id="65535" frequency="11862000" symbol_rate="29900000" polarisation="H">
+            <program name="xxxSky Cinema Action HD" service_id="4206" channel_number="114" type="1" scrambled="true" parental_lock="false" skip="false" id="4117" plp_id="255" sdt_version="7" default_channnel_num="2132" lcn="4132" fav="0">
+                <video pid="168" format="h264"/>
+                <pcr pid="168"/>
+                <audio pid="432" format="ac3" language="ita"/>
+                <audio pid="433" format="ac3" language="und"/>
+                <audio pid="6521" format="dts" language="Audio3"/>
+                <audio pid="6821" format="dts" language="Audio4"/>
+            </program>
+            <program name="xxxSky Meteo24" service_id="4321" channel_number="145" type="1" scrambled="true" parental_lock="false" skip="false" id="4118" plp_id="255" sdt_version="7" default_channnel_num="2133" lcn="4133" fav="0">
+                <video pid="162" format="h264"/>
+                <pcr pid="162"/>
+                <audio pid="421" format="mpeg" language="ita"/>
+            </program>
+            <program name="xxxSky Meteo 24 Active" service_id="4356" channel_number="144" type="1" scrambled="true" parental_lock="false" skip="false" id="4119" plp_id="255" sdt_version="7" default_channnel_num="2136" lcn="4136" fav="0">
+                <video pid="162" format="h264"/>
+                <pcr pid="162"/>
+                <audio pid="421" format="mpeg" language="ita"/>
+            </program>
+            <program name="xxxSky Sport MotoGP" service_id="10914" channel_number="179" type="1" scrambled="true" parental_lock="false" skip="false" id="4120" plp_id="255" sdt_version="7" default_channnel_num="2138" lcn="4137" fav="0">
+                <video pid="160" format="h264"/>
+                <pcr pid="160"/>
+                <audio pid="404" format="mpeg" language="ita"/>
+                <audio pid="405" format="mpeg" language="und"/>
+                <audio pid="6542" format="dts" language="Audio3"/>
+                <audio pid="6842" format="dts" language="Audio4"/>
+            </program>
+            <program name="xxxSky Sport24 HD" service_id="11040" channel_number="196" type="1" scrambled="true" parental_lock="false" skip="false" id="4121" plp_id="255" sdt_version="7" default_channnel_num="2142" lcn="4138" fav="0">
+                <video pid="169" format="h264"/>
+                <pcr pid="169"/>
+                <audio pid="436" format="ac3" language="ita"/>
+                <audio pid="6508" format="dts" language="Audio2"/>
+                <audio pid="6808" format="dts" language="Audio3"/>
+            </program>
+            <program name="xxxSky Sport24 HD" service_id="11037" channel_number="197" type="1" scrambled="true" parental_lock="false" skip="false" id="4122" plp_id="255" sdt_version="7" default_channnel_num="2141" lcn="4139" fav="0">
+                <video pid="169" format="h264"/>
+                <pcr pid="169"/>
+                <audio pid="436" format="ac3" language="ita"/>
+                <audio pid="6508" format="dts" language="Audio2"/>
+                <audio pid="6808" format="dts" language="Audio3"/>
+            </program>
+            <program name="xxxSky Sport24 HD" service_id="11035" channel_number="198" type="1" scrambled="true" parental_lock="false" skip="false" id="4123" plp_id="255" sdt_version="7" default_channnel_num="2140" lcn="4140" fav="0">
+                <video pid="169" format="h264"/>
+                <pcr pid="169"/>
+                <audio pid="436" format="ac3" language="ita"/>
+                <audio pid="6508" format="dts" language="Audio2"/>
+                <audio pid="6808" format="dts" language="Audio3"/>
+            </program>
+            <program name="xxxSky Cinema Comedy HD" service_id="11030" channel_number="120" type="1" scrambled="true" parental_lock="false" skip="false" id="4124" plp_id="255" sdt_version="7" default_channnel_num="2139" lcn="4142" fav="0">
+                <video pid="164" format="h264"/>
+                <pcr pid="164"/>
+                <audio pid="524" format="ac3" language="ita"/>
+                <audio pid="525" format="ac3" language="und"/>
+                <audio pid="6518" format="dts" language="Audio3"/>
+                <audio pid="6818" format="dts" language="Audio4"/>
+            </program>
+        </transponder>
+        <transponder original_network_id="64511" ts_id="65535" frequency="11881000" symbol_rate="27500000" polarisation="V">
+            <program name="xxxSky TG24 HD" service_id="3532" channel_number="199" type="1" scrambled="true" parental_lock="false" skip="false" id="4125" plp_id="255" sdt_version="7" default_channnel_num="2150" lcn="4148" fav="0">
+                <video pid="160" format="h264"/>
+                <pcr pid="160"/>
+                <audio pid="401" format="mpeg" language="ita"/>
+            </program>
+            <program name="xxxSky TG24 HD" service_id="3519" channel_number="200" type="1" scrambled="true" parental_lock="false" skip="false" id="4126" plp_id="255" sdt_version="7" default_channnel_num="2148" lcn="4149" fav="0">
+                <video pid="160" format="h264"/>
+                <pcr pid="160"/>
+                <audio pid="401" format="mpeg" language="ita"/>
+                <audio pid="402" format="mpeg" language="und"/>
+            </program>
+            <program name="xxxSky TG24 HD" service_id="3521" channel_number="201" type="1" scrambled="true" parental_lock="false" skip="false" id="4127" plp_id="255" sdt_version="7" default_channnel_num="2149" lcn="4150" fav="0">
+                <video pid="160" format="h264"/>
+                <pcr pid="160"/>
+                <audio pid="401" format="mpeg" language="ita"/>
+                <audio pid="402" format="mpeg" language="und"/>
+            </program>
+        </transponder>
+        <transponder original_network_id="64511" ts_id="65535" frequency="11900000" symbol_rate="29900000" polarisation="H">
+            <program name="xxxSky Sport F1 HD" service_id="9478" channel_number="172" type="1" scrambled="true" parental_lock="false" skip="false" id="4128" plp_id="255" sdt_version="7" default_channnel_num="2156" lcn="4152" fav="0">
+                <video pid="160" format="h264"/>
+                <pcr pid="160"/>
+                <audio pid="400" format="ac3" language="ita"/>
+                <audio pid="401" format="ac3" language="und"/>
+                <audio pid="6539" format="dts" language="Audio3"/>
+                <audio pid="6839" format="dts" language="Audio4"/>
+            </program>
+            <program name="xxxSky Sport MotoGP HD" service_id="9483" channel_number="180" type="1" scrambled="true" parental_lock="false" skip="false" id="4129" plp_id="255" sdt_version="7" default_channnel_num="2158" lcn="4153" fav="0">
+                <video pid="169" format="h264"/>
+                <pcr pid="169"/>
+                <audio pid="436" format="ac3" language="ita"/>
+                <audio pid="437" format="ac3" language="und"/>
+                <audio pid="6841" format="dts" language="Audio3"/>
+                <audio pid="6541" format="dts" language="Audio4"/>
+            </program>
+            <program name="xxxSky Sport HD" service_id="7775" channel_number="175" type="1" scrambled="true" parental_lock="false" skip="false" id="4130" plp_id="255" sdt_version="7" default_channnel_num="2153" lcn="4158" fav="0">
+                <video pid="164" format="h264"/>
+                <pcr pid="164"/>
+                <audio pid="412" format="ac3" language="ita"/>
+                <audio pid="413" format="ac3" language="und"/>
+                <audio pid="6536" format="dts" language="Audio3"/>
+                <audio pid="6836" format="dts" language="Audio4"/>
+            </program>
+        </transponder>
+        <transponder original_network_id="272" ts_id="65535" frequency="11919000" symbol_rate="29900000" polarisation="V"/>
+        <transponder original_network_id="318" ts_id="65535" frequency="11938000" symbol_rate="27500000" polarisation="H"/>
+        <transponder original_network_id="64511" ts_id="65535" frequency="11958000" symbol_rate="27500000" polarisation="V">
+            <program name="xxxSky Cinema Uno HD" service_id="4202" channel_number="142" type="1" scrambled="true" parental_lock="false" skip="false" id="4131" plp_id="255" sdt_version="8" default_channnel_num="2181" lcn="4181" fav="0">
+                <video pid="178" format="h264"/>
+                <pcr pid="178"/>
+                <audio pid="472" format="ac3" language="ita"/>
+                <audio pid="473" format="ac3" language="und"/>
+                <audio pid="6502" format="dts" language="Audio3"/>
+                <audio pid="6802" format="dts" language="Audio4"/>
+            </program>
+            <program name="xxxSky Sport Serie A HD" service_id="7209" channel_number="187" type="1" scrambled="true" parental_lock="false" skip="false" id="4132" plp_id="255" sdt_version="8" default_channnel_num="2182" lcn="4182" fav="0">
+                <video pid="179" format="h264"/>
+                <pcr pid="179"/>
+                <audio pid="480" format="ac3" language="ita"/>
+                <audio pid="481" format="ac3" language="und"/>
+                <audio pid="482" format="mpeg" language="ben"/>
+                <audio pid="6526" format="dts" language="Audio4"/>
+                <audio pid="6826" format="dts" language="Audio5"/>
+            </program>
+            <program name="xxxSky Sport Serie A HD" service_id="7230" channel_number="188" type="1" scrambled="true" parental_lock="false" skip="false" id="4133" plp_id="255" sdt_version="8" default_channnel_num="2183" lcn="4183" fav="0">
+                <video pid="179" format="h264"/>
+                <pcr pid="179"/>
+                <audio pid="480" format="ac3" language="ita"/>
+                <audio pid="481" format="ac3" language="und"/>
+                <audio pid="482" format="mpeg" language="ben"/>
+                <audio pid="6526" format="dts" language="Audio4"/>
+                <audio pid="6826" format="dts" language="Audio5"/>
+            </program>
+            <program name="xxxSky Uno HD" service_id="9477" channel_number="204" type="1" scrambled="true" parental_lock="false" skip="false" id="4134" plp_id="255" sdt_version="8" default_channnel_num="2184" lcn="4184" fav="0">
+                <video pid="166" format="h264"/>
+                <pcr pid="166"/>
+                <audio pid="428" format="ac3" language="ita"/>
+                <audio pid="429" format="ac3" language="und"/>
+                <audio pid="6510" format="dts" language="Audio3"/>
+                <audio pid="6810" format="dts" language="Audio4"/>
+            </program>
+            <program name="xxxSky Atlantic HD" service_id="14226" channel_number="110" type="1" scrambled="true" parental_lock="false" skip="false" id="4135" plp_id="255" sdt_version="8" default_channnel_num="2186" lcn="4185" fav="0">
+                <video pid="181" format="h264"/>
+                <pcr pid="181"/>
+                <audio pid="478" format="ac3" language="ita"/>
+                <audio pid="479" format="ac3" language="und"/>
+                <audio pid="6515" format="dts" language="Audio3"/>
+                <audio pid="6815" format="dts" language="Audio4"/>
+            </program>
+            <program name="xxxSky Sport Uno HD" service_id="11023" channel_number="189" type="1" scrambled="true" parental_lock="false" skip="false" id="4136" plp_id="255" sdt_version="8" default_channnel_num="2185" lcn="4186" fav="0">
+                <video pid="180" format="h264"/>
+                <pcr pid="180"/>
+                <audio pid="474" format="ac3" language="ita"/>
+                <audio pid="475" format="ac3" language="und"/>
+                <audio pid="476" format="mpeg" language="ben"/>
+                <audio pid="6506" format="dts" language="Audio4"/>
+                <audio pid="6806" format="dts" language="Audio5"/>
+            </program>
+        </transponder>
+        <transponder original_network_id="64511" ts_id="65535" frequency="11977000" symbol_rate="29900000" polarisation="H">
+            <program name="xxxSky Cinema Drama HD" service_id="7769" channel_number="122" type="1" scrambled="true" parental_lock="false" skip="false" id="4137" plp_id="255" sdt_version="7" default_channnel_num="2188" lcn="4188" fav="0">
+                <video pid="174" format="h264"/>
+                <pcr pid="174"/>
+                <audio pid="430" format="ac3" language="ita"/>
+                <audio pid="431" format="ac3" language="und"/>
+                <audio pid="6522" format="dts" language="Audio3"/>
+                <audio pid="6822" format="dts" language="Audio4"/>
+            </program>
+            <program name="xxxSky Cinema Due +24 HD" service_id="7779" channel_number="125" type="1" scrambled="true" parental_lock="false" skip="false" id="4138" plp_id="255" sdt_version="7" default_channnel_num="2189" lcn="4189" fav="0">
+                <video pid="175" format="h264"/>
+                <pcr pid="175"/>
+                <audio pid="432" format="ac3" language="ita"/>
+                <audio pid="433" format="ac3" language="und"/>
+                <audio pid="6504" format="dts" language="Audio3"/>
+                <audio pid="6804" format="dts" language="Audio4"/>
+            </program>
+            <program name="xxxSky Cinema Due" service_id="8137" channel_number="123" type="1" scrambled="true" parental_lock="false" skip="false" id="4139" plp_id="255" sdt_version="7" default_channnel_num="2192" lcn="4192" fav="0">
+                <video pid="166" format="h264"/>
+                <pcr pid="166"/>
+                <audio pid="409" format="mpeg" language="ita"/>
+                <audio pid="410" format="mpeg" language="und"/>
+            </program>
+            <program name="xxxSky Primafila Active" service_id="8141" channel_number="152" type="1" scrambled="true" parental_lock="false" skip="false" id="4140" plp_id="255" sdt_version="7" default_channnel_num="2193" lcn="4193" fav="0">
+                <video pid="173" format="h264"/>
+                <pcr pid="173"/>
+                <audio pid="420" format="mpeg" language="ita"/>
+            </program>
+            <program name="xxxSky Primafila Active" service_id="8144" channel_number="153" type="1" scrambled="true" parental_lock="false" skip="false" id="4141" plp_id="255" sdt_version="7" default_channnel_num="2194" lcn="4194" fav="0">
+                <video pid="173" format="h264"/>
+                <pcr pid="173"/>
+                <audio pid="420" format="mpeg" language="ita"/>
+            </program>
+            <program name="xxxSky Primafila" service_id="8145" channel_number="150" type="1" scrambled="true" parental_lock="false" skip="false" id="4142" plp_id="255" sdt_version="7" default_channnel_num="2195" lcn="4195" fav="0">
+                <video pid="173" format="h264"/>
+                <pcr pid="173"/>
+                <audio pid="420" format="mpeg" language="ita"/>
+            </program>
+            <program name="xxxSky Primafila" service_id="8146" channel_number="151" type="1" scrambled="true" parental_lock="false" skip="false" id="4143" plp_id="255" sdt_version="7" default_channnel_num="2196" lcn="4196" fav="0">
+                <video pid="173" format="h264"/>
+                <pcr pid="173"/>
+                <audio pid="420" format="mpeg" language="ita"/>
+            </program>
+            <program name="xxxSky Sport24" service_id="10902" channel_number="190" type="1" scrambled="true" parental_lock="false" skip="false" id="4144" plp_id="255" sdt_version="7" default_channnel_num="2198" lcn="4198" fav="0">
+                <video pid="176" format="h264"/>
+                <pcr pid="176"/>
+                <audio pid="434" format="mpeg" language="ita"/>
+                <audio pid="6509" format="dts" language="Audio2"/>
+                <audio pid="6809" format="dts" language="Audio3"/>
+            </program>
+            <program name="xxxSky Sport24" service_id="10906" channel_number="191" type="1" scrambled="true" parental_lock="false" skip="false" id="4145" plp_id="255" sdt_version="7" default_channnel_num="2199" lcn="4199" fav="0">
+                <video pid="176" format="h264"/>
+                <pcr pid="176"/>
+                <audio pid="434" format="mpeg" language="ita"/>
+                <audio pid="6509" format="dts" language="Audio2"/>
+                <audio pid="6809" format="dts" language="Audio3"/>
+            </program>
+            <program name="xxxSky Sport24" service_id="10909" channel_number="192" type="1" scrambled="true" parental_lock="false" skip="false" id="4146" plp_id="255" sdt_version="7" default_channnel_num="2200" lcn="4200" fav="0">
+                <video pid="176" format="h264"/>
+                <pcr pid="176"/>
+                <audio pid="434" format="mpeg" language="ita"/>
+                <audio pid="6509" format="dts" language="Audio2"/>
+                <audio pid="6809" format="dts" language="Audio3"/>
+            </program>
+            <program name="xxxSky Sport Arena" service_id="10921" channel_number="164" type="1" scrambled="true" parental_lock="false" skip="false" id="4147" plp_id="255" sdt_version="7" default_channnel_num="2201" lcn="4201" fav="0">
+                <video pid="178" format="h264"/>
+                <pcr pid="178"/>
+                <audio pid="438" format="mpeg" language="ita"/>
+                <audio pid="439" format="mpeg" language="und"/>
+                <audio pid="6525" format="dts" language="Audio3"/>
+                <audio pid="6825" format="dts" language="Audio4"/>
+            </program>
+            <program name="xxxSky Sport Serie A" service_id="10922" channel_number="185" type="1" scrambled="true" parental_lock="false" skip="false" id="4148" plp_id="255" sdt_version="7" default_channnel_num="2202" lcn="4202" fav="0">
+                <video pid="177" format="h264"/>
+                <pcr pid="177"/>
+                <audio pid="436" format="mpeg" language="ita"/>
+                <audio pid="437" format="mpeg" language="und"/>
+                <audio pid="450" format="mpeg" language="ben"/>
+                <audio pid="6527" format="dts" language="Audio4"/>
+                <audio pid="6827" format="dts" language="Audio5"/>
+            </program>
+            <program name="xxxSky Sport Serie A" service_id="10927" channel_number="186" type="1" scrambled="true" parental_lock="false" skip="false" id="4149" plp_id="255" sdt_version="7" default_channnel_num="2203" lcn="4203" fav="0">
+                <video pid="177" format="h264"/>
+                <pcr pid="177"/>
+                <audio pid="436" format="mpeg" language="ita"/>
+                <audio pid="437" format="mpeg" language="und"/>
+                <audio pid="450" format="mpeg" language="ben"/>
+                <audio pid="6527" format="dts" language="Audio4"/>
+                <audio pid="6827" format="dts" language="Audio5"/>
+            </program>
+            <program name="xxxSky Sport24" service_id="10929" channel_number="193" type="1" scrambled="true" parental_lock="false" skip="false" id="4150" plp_id="255" sdt_version="7" default_channnel_num="2204" lcn="4205" fav="0">
+                <video pid="176" format="h264"/>
+                <pcr pid="176"/>
+                <audio pid="434" format="mpeg" language="ita"/>
+                <audio pid="6509" format="dts" language="Audio2"/>
+                <audio pid="6809" format="dts" language="Audio3"/>
+            </program>
+            <program name="xxxSky Sport24" service_id="10936" channel_number="194" type="1" scrambled="true" parental_lock="false" skip="false" id="4151" plp_id="255" sdt_version="7" default_channnel_num="2205" lcn="4206" fav="0">
+                <video pid="176" format="h264"/>
+                <pcr pid="176"/>
+                <audio pid="434" format="mpeg" language="ita"/>
+                <audio pid="6509" format="dts" language="Audio2"/>
+                <audio pid="6809" format="dts" language="Audio3"/>
+            </program>
+            <program name="xxxSky Sport24" service_id="10938" channel_number="195" type="1" scrambled="true" parental_lock="false" skip="false" id="4152" plp_id="255" sdt_version="7" default_channnel_num="2206" lcn="4207" fav="0">
+                <video pid="176" format="h264"/>
+                <pcr pid="176"/>
+                <audio pid="434" format="mpeg" language="ita"/>
+                <audio pid="6509" format="dts" language="Audio2"/>
+                <audio pid="6809" format="dts" language="Audio3"/>
+            </program>
+        </transponder>
+        <transponder original_network_id="64511" ts_id="65535" frequency="11996000" symbol_rate="29900000" polarisation="V">
+            <program name="xxxSky Sport HD" service_id="3951" channel_number="176" type="1" scrambled="true" parental_lock="false" skip="false" id="4153" plp_id="255" sdt_version="7" default_channnel_num="2208" lcn="4208" fav="0">
+                <video pid="165" format="h264"/>
+                <pcr pid="165"/>
+                <audio pid="414" format="ac3" language="ita"/>
+                <audio pid="415" format="ac3" language="und"/>
+                <audio pid="416" format="mpeg" language="ben"/>
+                <audio pid="6531" format="dts" language="Audio4"/>
+                <audio pid="6831" format="dts" language="Audio5"/>
+            </program>
+            <program name="xxxSky Sport Arena HD" service_id="11024" channel_number="165" type="1" scrambled="true" parental_lock="false" skip="false" id="4154" plp_id="255" sdt_version="7" default_channnel_num="2210" lcn="4210" fav="0">
+                <video pid="163" format="h264"/>
+                <pcr pid="163"/>
+                <audio pid="408" format="ac3" language="ita"/>
+                <audio pid="409" format="ac3" language="und"/>
+                <audio pid="6524" format="dts" language="Audio3"/>
+                <audio pid="6824" format="dts" language="Audio4"/>
+            </program>
+            <program name="xxxSky Cinema Suspense HD" service_id="11047" channel_number="138" type="1" scrambled="true" parental_lock="false" skip="false" id="4155" plp_id="255" sdt_version="7" default_channnel_num="2211" lcn="4211" fav="0">
+                <video pid="170" format="h264"/>
+                <pcr pid="170"/>
+                <audio pid="452" format="ac3" language="ita"/>
+                <audio pid="453" format="ac3" language="und"/>
+                <audio pid="6519" format="dts" language="Audio3"/>
+                <audio pid="6819" format="dts" language="Audio4"/>
+            </program>
+            <program name="xxxSky Arte HD" service_id="11074" channel_number="108" type="1" scrambled="true" parental_lock="false" skip="false" id="4156" plp_id="255" sdt_version="7" default_channnel_num="2212" lcn="4212" fav="0">
+                <video pid="161" format="h264"/>
+                <pcr pid="161"/>
+                <audio pid="400" format="ac3" language="ita"/>
+                <audio pid="401" format="ac3" language="und"/>
+                <audio pid="6514" format="dts" language="Audio3"/>
+                <audio pid="6814" format="dts" language="Audio4"/>
+            </program>
+            <program name="xxxSky Arte HD" service_id="11075" channel_number="109" type="1" scrambled="true" parental_lock="false" skip="false" id="4157" plp_id="255" sdt_version="7" default_channnel_num="2213" lcn="4213" fav="0">
+                <video pid="161" format="h264"/>
+                <pcr pid="161"/>
+                <audio pid="400" format="ac3" language="ita"/>
+                <audio pid="401" format="ac3" language="und"/>
+                <audio pid="6514" format="dts" language="Audio3"/>
+                <audio pid="6814" format="dts" language="Audio4"/>
+            </program>
+        </transponder>
+        <transponder original_network_id="318" ts_id="65535" frequency="12015000" symbol_rate="27500000" polarisation="H"/>
+        <transponder original_network_id="64511" ts_id="65535" frequency="12034000" symbol_rate="29900000" polarisation="V">
+            <program name="xxxSky News" service_id="8108" channel_number="146" type="1" scrambled="true" parental_lock="false" skip="false" id="4158" plp_id="255" sdt_version="9" default_channnel_num="2242" lcn="4242" fav="0">
+                <video pid="185" format="h264"/>
+                <pcr pid="185"/>
+                <audio pid="445" format="mpeg" language="ita"/>
+            </program>
+            <program name="xxxSky Cinema Uno" service_id="11101" channel_number="140" type="1" scrambled="true" parental_lock="false" skip="false" id="4159" plp_id="255" sdt_version="9" default_channnel_num="2243" lcn="4243" fav="0">
+                <video pid="160" format="h264"/>
+                <pcr pid="160"/>
+                <audio pid="400" format="mpeg" language="ita"/>
+                <audio pid="401" format="mpeg" language="und"/>
+                <audio pid="6503" format="dts" language="Audio3"/>
+                <audio pid="6803" format="dts" language="Audio4"/>
+            </program>
+            <program name="xxxSky Cinema Family" service_id="11105" channel_number="127" type="1" scrambled="true" parental_lock="false" skip="false" id="4160" plp_id="255" sdt_version="9" default_channnel_num="2244" lcn="4244" fav="0">
+                <video pid="162" format="h264"/>
+                <pcr pid="162"/>
+                <audio pid="408" format="mpeg" language="ita"/>
+                <audio pid="409" format="mpeg" language="und"/>
+            </program>
+            <program name="xxxSky Cinema Uno +24" service_id="11107" channel_number="141" type="1" scrambled="true" parental_lock="false" skip="false" id="4161" plp_id="255" sdt_version="9" default_channnel_num="2245" lcn="4245" fav="0">
+                <video pid="173" format="h264"/>
+                <pcr pid="173"/>
+                <audio pid="452" format="mpeg" language="ita"/>
+                <audio pid="453" format="mpeg" language="und"/>
+            </program>
+            <program name="xxxSky Cinema Action" service_id="11115" channel_number="112" type="1" scrambled="true" parental_lock="false" skip="false" id="4162" plp_id="255" sdt_version="9" default_channnel_num="2246" lcn="4246" fav="0">
+                <video pid="167" format="h264"/>
+                <pcr pid="167"/>
+                <audio pid="428" format="mpeg" language="ita"/>
+                <audio pid="429" format="mpeg" language="und"/>
+            </program>
+            <program name="xxxSky Cinema Romance" service_id="11123" channel_number="135" type="1" scrambled="true" parental_lock="false" skip="false" id="4163" plp_id="255" sdt_version="9" default_channnel_num="2247" lcn="4247" fav="0">
+                <video pid="161" format="h264"/>
+                <pcr pid="161"/>
+                <audio pid="404" format="mpeg" language="ita"/>
+                <audio pid="405" format="mpeg" language="und"/>
+            </program>
+            <program name="xxxSky Cinema Suspense" service_id="11151" channel_number="137" type="1" scrambled="true" parental_lock="false" skip="false" id="4164" plp_id="255" sdt_version="9" default_channnel_num="2248" lcn="4248" fav="0">
+                <video pid="165" format="h264"/>
+                <pcr pid="165"/>
+                <audio pid="420" format="mpeg" language="ita"/>
+                <audio pid="421" format="mpeg" language="und"/>
+            </program>
+            <program name="xxxSky Sport Info" service_id="11311" channel_number="178" type="1" scrambled="false" parental_lock="false" skip="false" id="4165" plp_id="255" sdt_version="9" default_channnel_num="2253" lcn="4252" fav="0">
+                <video pid="174" format="h264"/>
+                <pcr pid="174"/>
+            </program>
+            <program name="xxxSky Sport HD" service_id="11383" channel_number="177" type="1" scrambled="false" parental_lock="false" skip="false" id="4166" plp_id="255" sdt_version="9" default_channnel_num="2262" lcn="4260" fav="0">
+                <video pid="177" format="h264"/>
+                <pcr pid="177"/>
+            </program>
+        </transponder>
+        <transponder original_network_id="64511" ts_id="65535" frequency="12054000" symbol_rate="29900000" polarisation="H">
+            <program name="xxxSky Sport F1" service_id="11610" channel_number="171" type="1" scrambled="true" parental_lock="false" skip="false" id="4167" plp_id="255" sdt_version="11" default_channnel_num="2274" lcn="4272" fav="0">
+                <video pid="164" format="h264"/>
+                <pcr pid="164"/>
+                <audio pid="416" format="mpeg" language="ita"/>
+                <audio pid="417" format="mpeg" language="und"/>
+                <audio pid="6540" format="dts" language="Audio3"/>
+                <audio pid="6840" format="dts" language="Audio4"/>
+            </program>
+            <program name="xxxSky Sport NBA" service_id="11611" channel_number="181" type="1" scrambled="true" parental_lock="false" skip="false" id="4168" plp_id="255" sdt_version="11" default_channnel_num="2275" lcn="4273" fav="0">
+                <video pid="182" format="h264"/>
+                <pcr pid="182"/>
+                <audio pid="481" format="mpeg" language="ita"/>
+                <audio pid="482" format="mpeg" language="und"/>
+            </program>
+            <program name="xxxSky Sport" service_id="11706" channel_number="155" type="1" scrambled="true" parental_lock="false" skip="false" id="4169" plp_id="255" sdt_version="11" default_channnel_num="2276" lcn="4274" fav="0">
+                <video pid="163" format="h264"/>
+                <pcr pid="163"/>
+                <audio pid="412" format="mpeg" language="ita"/>
+                <audio pid="413" format="mpeg" language="und"/>
+                <audio pid="451" format="mpeg" language="ben"/>
+                <audio pid="6501" format="dts" language="Audio4"/>
+                <audio pid="6801" format="dts" language="Audio5"/>
+            </program>
+            <program name="xxxSky Sport" service_id="11215" channel_number="156" type="1" scrambled="true" parental_lock="false" skip="false" id="4170" plp_id="255" sdt_version="11" default_channnel_num="2272" lcn="4276" fav="0">
+                <video pid="162" format="h264"/>
+                <pcr pid="162"/>
+                <audio pid="408" format="mpeg" language="ita"/>
+                <audio pid="409" format="mpeg" language="und"/>
+                <audio pid="410" format="mpeg" language="ben"/>
+                <audio pid="6532" format="dts" language="Audio4"/>
+                <audio pid="6832" format="dts" language="Audio5"/>
+            </program>
+            <program name="xxxSky Sport" service_id="11217" channel_number="157" type="1" scrambled="true" parental_lock="false" skip="false" id="4171" plp_id="255" sdt_version="11" default_channnel_num="2273" lcn="4277" fav="0">
+                <video pid="160" format="h264"/>
+                <pcr pid="160"/>
+                <audio pid="400" format="mpeg" language="ita"/>
+                <audio pid="401" format="mpeg" language="und"/>
+                <audio pid="402" format="mpeg" language="ben"/>
+            </program>
+            <program name="xxxSky Uno" service_id="11718" channel_number="202" type="1" scrambled="true" parental_lock="false" skip="false" id="4172" plp_id="255" sdt_version="11" default_channnel_num="2280" lcn="4278" fav="0">
+                <video pid="165" format="h264"/>
+                <pcr pid="165"/>
+                <audio pid="420" format="mpeg" language="ita"/>
+                <audio pid="421" format="mpeg" language="und"/>
+                <audio pid="6511" format="dts" language="Audio3"/>
+                <audio pid="6811" format="dts" language="Audio4"/>
+            </program>
+            <program name="xxxSky Sport Football" service_id="11712" channel_number="173" type="1" scrambled="true" parental_lock="false" skip="false" id="4173" plp_id="255" sdt_version="11" default_channnel_num="2278" lcn="4279" fav="0">
+                <video pid="161" format="h264"/>
+                <pcr pid="161"/>
+                <audio pid="404" format="mpeg" language="ita"/>
+                <audio pid="405" format="mpeg" language="und"/>
+            </program>
+            <program name="xxxSky Cinema Comedy" service_id="11725" channel_number="119" type="1" scrambled="true" parental_lock="false" skip="false" id="4174" plp_id="255" sdt_version="11" default_channnel_num="2282" lcn="4280" fav="0">
+                <video pid="173" format="h264"/>
+                <pcr pid="173"/>
+                <audio pid="448" format="mpeg" language="ita"/>
+                <audio pid="449" format="mpeg" language="und"/>
+            </program>
+            <program name="xxxSky Sport America's Cup" service_id="11730" channel_number="162" type="1" scrambled="true" parental_lock="false" skip="false" id="4175" plp_id="255" sdt_version="11" default_channnel_num="2284" lcn="4283" fav="0">
+                <video pid="175" format="h264"/>
+                <pcr pid="175"/>
+                <audio pid="460" format="mpeg" language="ita"/>
+                <audio pid="461" format="mpeg" language="und"/>
+            </program>
+            <program name="xxxSky Cinema Due +24" service_id="11732" channel_number="124" type="1" scrambled="true" parental_lock="false" skip="false" id="4176" plp_id="255" sdt_version="11" default_channnel_num="2285" lcn="4284" fav="0">
+                <video pid="166" format="h264"/>
+                <pcr pid="166"/>
+                <audio pid="424" format="mpeg" language="ita"/>
+                <audio pid="425" format="mpeg" language="und"/>
+            </program>
+            <program name="xxxSky Cinema Drama" service_id="11727" channel_number="121" type="1" scrambled="true" parental_lock="false" skip="false" id="4177" plp_id="255" sdt_version="11" default_channnel_num="2283" lcn="4285" fav="0">
+                <video pid="172" format="h264"/>
+                <pcr pid="172"/>
+                <audio pid="445" format="mpeg" language="ita"/>
+                <audio pid="446" format="mpeg" language="und"/>
+            </program>
+        </transponder>
+    </satellite>
+    <satellite name="Eutelsat 16.0E" longitude="160" lof_hi="10600000" lof_lo="9750000" lof_threshold="11700000" lnb_power="13/18v" signal_22khz="auto" toneburst="none" diseqc1_0="lnb1" diseqc1_1="lnb1" motor="none">
+        <transponder original_network_id="366" ts_id="65535" frequency="10721000" symbol_rate="30000000" polarisation="H"/>
+        <transponder original_network_id="366" ts_id="65535" frequency="10762000" symbol_rate="30000000" polarisation="H"/>
+        <transponder original_network_id="366" ts_id="65535" frequency="10803000" symbol_rate="29950000" polarisation="H"/>
+        <transponder original_network_id="366" ts_id="65535" frequency="10845000" symbol_rate="30000000" polarisation="H"/>
+        <transponder original_network_id="366" ts_id="65535" frequency="10886000" symbol_rate="30000000" polarisation="H"/>
+        <transponder original_network_id="366" ts_id="65535" frequency="10928000" symbol_rate="30000000" polarisation="H"/>
+        <transponder original_network_id="65535" ts_id="65535" frequency="10957000" symbol_rate="3333000" polarisation="H"/>
+        <transponder original_network_id="366" ts_id="65535" frequency="10972000" symbol_rate="27500000" polarisation="V">
+        </transponder>
+        <transponder original_network_id="0" ts_id="65535" frequency="10986000" symbol_rate="5500000" polarisation="H"/>
+        <transponder original_network_id="1" ts_id="65535" frequency="10993000" symbol_rate="2506000" polarisation="H"/>
+        <transponder original_network_id="366" ts_id="30204" frequency="11010000" symbol_rate="27500000" polarisation="V">
+        </transponder>
+        <transponder original_network_id="1" ts_id="65535" frequency="11048000" symbol_rate="14000000" polarisation="H"/>
+        <transponder original_network_id="65535" ts_id="65535" frequency="11055000" symbol_rate="2894000" polarisation="H"/>
+        <transponder original_network_id="366" ts_id="65535" frequency="11055000" symbol_rate="27500000" polarisation="V"/>
+        <transponder original_network_id="53810" ts_id="65535" frequency="11069000" symbol_rate="354000" polarisation="H"/>
+        <transponder original_network_id="1" ts_id="65535" frequency="11069000" symbol_rate="376000" polarisation="H"/>
+        <transponder original_network_id="1" ts_id="65535" frequency="11070000" symbol_rate="274000" polarisation="H"/>
+        <transponder original_network_id="1" ts_id="65535" frequency="11071000" symbol_rate="547000" polarisation="H"/>
+        <transponder original_network_id="366" ts_id="65535" frequency="11093000" symbol_rate="27500000" polarisation="V">
+        </transponder>
+        <transponder original_network_id="0" ts_id="65535" frequency="11131000" symbol_rate="16593000" polarisation="V"/>
+        <transponder original_network_id="366" ts_id="65535" frequency="11151000" symbol_rate="14375000" polarisation="V"/>
+        <transponder original_network_id="366" ts_id="65535" frequency="11157000" symbol_rate="45000000" polarisation="H"/>
+        <transponder original_network_id="366" ts_id="65535" frequency="11177000" symbol_rate="30000000" polarisation="V"/>
+        <transponder original_network_id="366" ts_id="65535" frequency="11220000" symbol_rate="30000000" polarisation="H">
+        </transponder>
+        <transponder original_network_id="366" ts_id="40200" frequency="11231000" symbol_rate="42000000" polarisation="V">
+        </transponder>
+        <transponder original_network_id="366" ts_id="65535" frequency="11262000" symbol_rate="30000000" polarisation="H"/>
+        <transponder original_network_id="366" ts_id="65535" frequency="11283000" symbol_rate="30000000" polarisation="V"/>
+        <transponder original_network_id="366" ts_id="65535" frequency="11304000" symbol_rate="30000000" polarisation="H"/>
+        <transponder original_network_id="366" ts_id="65535" frequency="11324000" symbol_rate="30000000" polarisation="V"/>
+        <transponder original_network_id="366" ts_id="65535" frequency="11345000" symbol_rate="30000000" polarisation="H"/>
+        <transponder original_network_id="366" ts_id="40800" frequency="11366000" symbol_rate="30000000" polarisation="V">
+        </transponder>
+        <transponder original_network_id="366" ts_id="65535" frequency="11386000" symbol_rate="30000000" polarisation="H">
+        </transponder>
+        <transponder original_network_id="366" ts_id="65535" frequency="11400000" symbol_rate="13846000" polarisation="V"/>
+        <transponder original_network_id="366" ts_id="65535" frequency="11427000" symbol_rate="27500000" polarisation="V"/>
+        <transponder original_network_id="366" ts_id="50100" frequency="11470000" symbol_rate="30000000" polarisation="H">
+        </transponder>
+        <transponder original_network_id="366" ts_id="65535" frequency="11470000" symbol_rate="30000000" polarisation="V">
+        </transponder>
+        <transponder original_network_id="64" ts_id="1" frequency="11512000" symbol_rate="30000000" polarisation="H">
+            <program name="xxxSportKlub 3 HR" service_id="96" channel_number="208" type="1" scrambled="true" parental_lock="false" skip="false" id="4194" plp_id="255" sdt_version="2" default_channnel_num="387" lcn="2388" fav="0">
+                <video pid="2864" format="h264"/>
+                <pcr pid="2864"/>
+                <audio pid="2608" format="mpeg" language="Audio1"/>
+            </program>
+            <program name="xxxSportKlub 2 HR" service_id="95" channel_number="207" type="1" scrambled="true" parental_lock="false" skip="false" id="4195" plp_id="255" sdt_version="2" default_channnel_num="386" lcn="2389" fav="0">
+                <video pid="2851" format="h264"/>
+                <pcr pid="2851"/>
+                <audio pid="2595" format="mpeg" language="Audio1"/>
+            </program>
+            <program name="xxxArena Sport 3 HR" service_id="108" channel_number="10" type="1" scrambled="true" parental_lock="false" skip="false" id="4196" plp_id="255" sdt_version="2" default_channnel_num="388" lcn="2390" fav="0">
+                <video pid="2824" format="h264"/>
+                <pcr pid="2824"/>
+                <audio pid="2600" format="mpeg" language="eng"/>
+            </program>
+            <program name="xxxArena Sport 4 HR" service_id="217" channel_number="11" type="1" scrambled="true" parental_lock="false" skip="false" id="4197" plp_id="255" sdt_version="2" default_channnel_num="391" lcn="2391" fav="0">
+                <video pid="2857" format="h264"/>
+                <pcr pid="2857"/>
+                <audio pid="2601" format="mpeg" language="hrv"/>
+            </program>
+        </transponder>
+        <transponder original_network_id="1" ts_id="65535" frequency="11512000" symbol_rate="29950000" polarisation="V"/>
+        <transponder original_network_id="366" ts_id="65535" frequency="11553000" symbol_rate="30000000" polarisation="H">
+        </transponder>
+        <transponder original_network_id="366" ts_id="50600" frequency="11554000" symbol_rate="30000000" polarisation="V">
+        </transponder>
+        <transponder original_network_id="64" ts_id="2" frequency="11595000" symbol_rate="30000000" polarisation="H">
+            <program name="xxxArena Sport 2 HR" service_id="80" channel_number="9" type="1" scrambled="true" parental_lock="false" skip="false" id="4202" plp_id="255" sdt_version="19" default_channnel_num="454" lcn="2454" fav="0">
+                <video pid="974" format="h264"/>
+                <pcr pid="974"/>
+                <audio pid="2567" format="mpeg" language="Audio1"/>
+            </program>
+            <program name="xxxSportKlub 1 HR" service_id="86" channel_number="206" type="1" scrambled="true" parental_lock="false" skip="false" id="4203" plp_id="255" sdt_version="19" default_channnel_num="455" lcn="2455" fav="0">
+                <video pid="2825" format="h264"/>
+                <pcr pid="2825"/>
+                <audio pid="2569" format="mpeg" language="Audio1"/>
+            </program>
+            <program name="xxxArena Sport 6 HR" service_id="127" channel_number="13" type="1" scrambled="true" parental_lock="false" skip="false" id="4204" plp_id="255" sdt_version="19" default_channnel_num="461" lcn="2461" fav="0">
+                <video pid="2850" format="h264"/>
+                <pcr pid="2850"/>
+                <audio pid="2594" format="mpeg" language="Audio1"/>
+            </program>
+        </transponder>
+        <transponder original_network_id="366" ts_id="65535" frequency="11595000" symbol_rate="30000000" polarisation="V"/>
+        <transponder original_network_id="366" ts_id="65535" frequency="11636000" symbol_rate="30000000" polarisation="V"/>
+        <transponder original_network_id="366" ts_id="65535" frequency="11637000" symbol_rate="30000000" polarisation="H"/>
+        <transponder original_network_id="64" ts_id="3" frequency="11678000" symbol_rate="30000000" polarisation="H">
+            <program name="xxxArena Sport 5 HR" service_id="190" channel_number="12" type="1" scrambled="true" parental_lock="false" skip="false" id="4207" plp_id="255" sdt_version="15" default_channnel_num="531" lcn="2535" fav="0">
+                <video pid="2818" format="h264"/>
+                <pcr pid="2818"/>
+                <audio pid="2562" format="mpeg" language="eng"/>
+            </program>
+            <program name="xxxArena Sport 1 HR" service_id="412" channel_number="8" type="1" scrambled="true" parental_lock="false" skip="false" id="4208" plp_id="255" sdt_version="15" default_channnel_num="542" lcn="2542" fav="0">
+                <video pid="2843" format="h264"/>
+                <pcr pid="2843"/>
+                <audio pid="2587" format="mpeg" language="eng"/>
+            </program>
+        </transponder>
+        <transponder original_network_id="5" ts_id="65535" frequency="12516000" symbol_rate="19365000" polarisation="V"/>
+        <transponder original_network_id="1" ts_id="65535" frequency="12543000" symbol_rate="19970000" polarisation="V"/>
+        <transponder original_network_id="100" ts_id="65535" frequency="12559000" symbol_rate="2222000" polarisation="V"/>
+        <transponder original_network_id="1" ts_id="65535" frequency="12564000" symbol_rate="3617000" polarisation="V"/>
+        <transponder original_network_id="65535" ts_id="65535" frequency="12569000" symbol_rate="3703000" polarisation="H"/>
+        <transponder original_network_id="1907" ts_id="65535" frequency="12574000" symbol_rate="6500000" polarisation="V"/>
+        <transponder original_network_id="1" ts_id="65535" frequency="12593000" symbol_rate="2500000" polarisation="V"/>
+        <transponder original_network_id="65535" ts_id="65535" frequency="12596000" symbol_rate="2848000" polarisation="V"/>
+        <transponder original_network_id="65280" ts_id="65535" frequency="12605000" symbol_rate="30000000" polarisation="H"/>
+        <transponder original_network_id="1" ts_id="65535" frequency="12618000" symbol_rate="5750000" polarisation="V"/>
+        <transponder original_network_id="65535" ts_id="65535" frequency="12632000" symbol_rate="4883000" polarisation="V"/>
+        <transponder original_network_id="366" ts_id="65535" frequency="12639000" symbol_rate="10833000" polarisation="H"/>
+        <transponder original_network_id="5" ts_id="65535" frequency="12643000" symbol_rate="27500000" polarisation="V"/>
+        <transponder original_network_id="65535" ts_id="65535" frequency="12653000" symbol_rate="11111000" polarisation="H"/>
+        <transponder original_network_id="65535" ts_id="65535" frequency="12656000" symbol_rate="4883000" polarisation="V"/>
+        <transponder original_network_id="65535" ts_id="65535" frequency="12660000" symbol_rate="2222000" polarisation="H"/>
+        <transponder original_network_id="65535" ts_id="65535" frequency="12676000" symbol_rate="2667000" polarisation="H"/>
+        <transponder original_network_id="17627" ts_id="65535" frequency="12678000" symbol_rate="330000" polarisation="H"/>
+        <transponder original_network_id="17627" ts_id="65535" frequency="12680000" symbol_rate="334000" polarisation="H"/>
+        <transponder original_network_id="1" ts_id="65535" frequency="12694000" symbol_rate="2220000" polarisation="H"/>
+        <transponder original_network_id="1" ts_id="65535" frequency="12699000" symbol_rate="9880000" polarisation="H"/>
+        <transponder original_network_id="100" ts_id="65535" frequency="12717000" symbol_rate="7500000" polarisation="H"/>
+        <transponder original_network_id="2" ts_id="65535" frequency="12730000" symbol_rate="6000000" polarisation="H"/>
+        <transponder original_network_id="100" ts_id="65535" frequency="12737000" symbol_rate="2255000" polarisation="H"/>
+    </satellite>
+    <satellite name="Astra 19.2E" longitude="192" lof_hi="10600000" lof_lo="9750000" lof_threshold="11700000" lnb_power="13/18v" signal_22khz="auto" toneburst="none" diseqc1_0="lnb1" diseqc1_1="lnb1" motor="none">
+        <transponder original_network_id="1" ts_id="65535" frequency="10714000" symbol_rate="22000000" polarisation="H"/>
+        <transponder original_network_id="1" ts_id="65535" frequency="10729000" symbol_rate="22000000" polarisation="V">
+            <program name="xxxLALIGATV BAR" service_id="30809" channel_number="56" type="1" scrambled="true" parental_lock="false" skip="false" id="4209" plp_id="255" sdt_version="4" default_channnel_num="639" lcn="2639" fav="0">
+                <video pid="162" format="h264"/>
+                <pcr pid="162"/>
+                <audio pid="92" format="mpeg" language="spa"/>
+                <audio pid="93" format="mpeg" language="qaa"/>
+                <audio pid="94" format="mpeg" language="Audio3"/>
+                <audio pid="95" format="mpeg" language="Audio4"/>
+            </program>
+        </transponder>
+        <transponder original_network_id="1" ts_id="65535" frequency="10743000" symbol_rate="22000000" polarisation="H"/>
+        <transponder original_network_id="1" ts_id="65535" frequency="10758000" symbol_rate="22000000" polarisation="V"/>
+        <transponder original_network_id="1" ts_id="65535" frequency="10773000" symbol_rate="22000000" polarisation="H"/>
+        <transponder original_network_id="1" ts_id="65535" frequency="10788000" symbol_rate="22000000" polarisation="V">
+            <program name="xxxM. LaLiga 8" service_id="30352" channel_number="75" type="1" scrambled="true" parental_lock="false" skip="false" id="4210" plp_id="255" sdt_version="9" default_channnel_num="676" lcn="2674" fav="0">
+                <video pid="171" format="mpeg2"/>
+                <pcr pid="171"/>
+                <audio pid="124" format="mpeg" language="spa"/>
+                <audio pid="125" format="mpeg" language="dos"/>
+            </program>
+            <program name="xxxLALIGATVBAR2" service_id="30362" channel_number="59" type="1" scrambled="true" parental_lock="false" skip="false" id="4211" plp_id="255" sdt_version="9" default_channnel_num="684" lcn="2683" fav="0">
+                <video pid="4055" format="mpeg2"/>
+                <pcr pid="4055"/>
+                <audio pid="4056" format="mpeg" language="spa"/>
+                <audio pid="4057" format="mpeg" language="dos"/>
+            </program>
+            <program name="xxxM. LaLiga 4" service_id="30363" channel_number="71" type="1" scrambled="true" parental_lock="false" skip="false" id="4212" plp_id="255" sdt_version="9" default_channnel_num="685" lcn="2686" fav="0">
+                <video pid="164" format="mpeg2"/>
+                <pcr pid="164"/>
+                <audio pid="96" format="mpeg" language="spa"/>
+                <audio pid="97" format="mpeg" language="dos"/>
+            </program>
+            <program name="xxxM.LCAMPEON4" service_id="30365" channel_number="83" type="1" scrambled="true" parental_lock="false" skip="false" id="4213" plp_id="255" sdt_version="9" default_channnel_num="687" lcn="2690" fav="0">
+                <video pid="166" format="mpeg2"/>
+                <pcr pid="166"/>
+                <audio pid="104" format="mpeg" language="spa"/>
+                <audio pid="105" format="mpeg" language="dos"/>
+            </program>
+        </transponder>
+        <transponder original_network_id="1" ts_id="65535" frequency="10802000" symbol_rate="22000000" polarisation="H"/>
+        <transponder original_network_id="1" ts_id="65535" frequency="10817000" symbol_rate="22000000" polarisation="V">
+            <program name="xxxM. LaLiga 1 HD" service_id="29951" channel_number="65" type="1" scrambled="true" parental_lock="false" skip="false" id="4214" plp_id="255" sdt_version="22" default_channnel_num="703" lcn="2703" fav="0">
+                <video pid="161" format="h264"/>
+                <pcr pid="161"/>
+                <audio pid="86" format="mpeg" language="spa"/>
+                <audio pid="87" format="mpeg" language="dos"/>
+                <audio pid="88" format="mpeg" language="Audio3"/>
+                <audio pid="89" format="mpeg" language="Audio4"/>
+            </program>
+            <program name="xxx#VAMOSHD" service_id="29962" channel_number="6" type="1" scrambled="true" parental_lock="false" skip="false" id="4215" plp_id="255" sdt_version="22" default_channnel_num="707" lcn="2706" fav="0">
+                <video pid="163" format="h264"/>
+                <pcr pid="163"/>
+                <audio pid="96" format="ac3" language="spa"/>
+                <audio pid="97" format="ac3" language="qaa"/>
+                <audio pid="98" format="mpeg" language="Audio3"/>
+            </program>
+            <program name="xxx#VAMOSHD" service_id="29960" channel_number="7" type="1" scrambled="true" parental_lock="false" skip="false" id="4216" plp_id="255" sdt_version="22" default_channnel_num="705" lcn="2708" fav="0">
+                <video pid="163" format="h264"/>
+                <pcr pid="163"/>
+                <audio pid="96" format="ac3" language="spa"/>
+                <audio pid="97" format="ac3" language="qaa"/>
+                <audio pid="98" format="mpeg" language="Audio3"/>
+            </program>
+            <program name="xxxM. LaLiga HD" service_id="29967" channel_number="77" type="1" scrambled="true" parental_lock="false" skip="false" id="4217" plp_id="255" sdt_version="22" default_channnel_num="711" lcn="2711" fav="0">
+                <video pid="167" format="h264"/>
+                <pcr pid="167"/>
+                <audio pid="120" format="ac3" language="spa"/>
+                <audio pid="121" format="ac3" language="dos"/>
+                <audio pid="122" format="mpeg" language="Audio3"/>
+                <audio pid="123" format="mpeg" language="Audio4"/>
+                <audio pid="124" format="mpeg" language="Audio5"/>
+                <audio pid="125" format="mpeg" language="Audio6"/>
+            </program>
+        </transponder>
+        <transponder original_network_id="1" ts_id="65535" frequency="10832000" symbol_rate="22000000" polarisation="H"/>
+        <transponder original_network_id="1" ts_id="65535" frequency="10847000" symbol_rate="22000000" polarisation="V"/>
+        <transponder original_network_id="1" ts_id="65535" frequency="10861000" symbol_rate="23500000" polarisation="H"/>
+        <transponder original_network_id="1" ts_id="65535" frequency="10876000" symbol_rate="22000000" polarisation="V">
+            <program name="xxx#VAMOS BAR" service_id="30606" channel_number="3" type="1" scrambled="true" parental_lock="false" skip="false" id="4218" plp_id="255" sdt_version="31" default_channnel_num="751" lcn="2751" fav="0">
+                <video pid="161" format="mpeg2"/>
+                <pcr pid="5161"/>
+                <audio pid="84" format="mpeg" language="spa"/>
+                <audio pid="85" format="mpeg" language="dos"/>
+            </program>
+            <program name="xxxLALIGATV BAR" service_id="30611" channel_number="57" type="1" scrambled="true" parental_lock="false" skip="false" id="4219" plp_id="255" sdt_version="31" default_channnel_num="755" lcn="2755" fav="0">
+                <video pid="160" format="mpeg2"/>
+                <pcr pid="5160"/>
+                <audio pid="80" format="mpeg" language="spa"/>
+                <audio pid="81" format="mpeg" language="dos"/>
+            </program>
+            <program name="xxxM. LaLiga" service_id="30615" channel_number="63" type="1" scrambled="true" parental_lock="false" skip="false" id="4220" plp_id="255" sdt_version="31" default_channnel_num="758" lcn="2758" fav="0">
+                <video pid="169" format="mpeg2"/>
+                <pcr pid="5169"/>
+                <audio pid="116" format="mpeg" language="spa"/>
+                <audio pid="117" format="mpeg" language="dos"/>
+                <audio pid="118" format="mpeg" language="tre"/>
+                <audio pid="119" format="mpeg" language="und"/>
+                <audio pid="126" format="mpeg" language="Audio5"/>
+                <audio pid="127" format="mpeg" language="Audio6"/>
+            </program>
+        </transponder>
+        <transponder original_network_id="1" ts_id="65535" frequency="10891000" symbol_rate="22000000" polarisation="H"/>
+        <transponder original_network_id="1" ts_id="65535" frequency="10906000" symbol_rate="22000000" polarisation="V"/>
+        <transponder original_network_id="133" ts_id="65535" frequency="10920000" symbol_rate="22000000" polarisation="H">
+            <program name="xxxSky Sport News" service_id="37" channel_number="183" type="1" scrambled="false" parental_lock="false" skip="false" id="4221" plp_id="255" sdt_version="17" default_channnel_num="776" lcn="2776" fav="0">
+                <video pid="767" format="mpeg2"/>
+                <pcr pid="767"/>
+                <audio pid="768" format="mpeg" language="deu"/>
+            </program>
+        </transponder>
+        <transponder original_network_id="1" ts_id="65535" frequency="10935000" symbol_rate="22000000" polarisation="V"/>
+        <transponder original_network_id="1" ts_id="65535" frequency="10964000" symbol_rate="22000000" polarisation="H"/>
+        <transponder original_network_id="1" ts_id="65535" frequency="10979000" symbol_rate="22000000" polarisation="V">
+            <program name="xxxM. LaLiga 2" service_id="30653" channel_number="67" type="1" scrambled="true" parental_lock="false" skip="false" id="4222" plp_id="255" sdt_version="8" default_channnel_num="795" lcn="2795" fav="0">
+                <video pid="161" format="mpeg2"/>
+                <pcr pid="5161"/>
+                <audio pid="84" format="mpeg" language="spa"/>
+                <audio pid="85" format="mpeg" language="dos"/>
+            </program>
+            <program name="xxxM.LCAMPEON1" service_id="30659" channel_number="78" type="1" scrambled="true" parental_lock="false" skip="false" id="4223" plp_id="255" sdt_version="8" default_channnel_num="801" lcn="2800" fav="0">
+                <video pid="165" format="mpeg2"/>
+                <pcr pid="5165"/>
+                <audio pid="100" format="mpeg" language="spa"/>
+                <audio pid="101" format="mpeg" language="dos"/>
+                <audio pid="102" format="mpeg" language="tre"/>
+                <audio pid="103" format="mpeg" language="und"/>
+            </program>
+            <program name="xxxM.LCAMPEON3" service_id="30680" channel_number="82" type="1" scrambled="true" parental_lock="false" skip="false" id="4224" plp_id="255" sdt_version="8" default_channnel_num="805" lcn="2805" fav="0">
+                <video pid="168" format="mpeg2"/>
+                <pcr pid="5168"/>
+                <audio pid="112" format="mpeg" language="spa"/>
+                <audio pid="113" format="mpeg" language="dos"/>
+            </program>
+        </transponder>
+        <transponder original_network_id="1" ts_id="65535" frequency="10993000" symbol_rate="22000000" polarisation="H"/>
+        <transponder original_network_id="0" ts_id="65535" frequency="11008000" symbol_rate="22000000" polarisation="V"/>
+        <transponder original_network_id="1" ts_id="65535" frequency="11023000" symbol_rate="23500000" polarisation="H"/>
+        <transponder original_network_id="1" ts_id="65535" frequency="11038000" symbol_rate="22000000" polarisation="V">
+            <program name="xxxLALIGATVBAR1" service_id="30405" channel_number="58" type="1" scrambled="true" parental_lock="false" skip="false" id="4225" plp_id="255" sdt_version="17" default_channnel_num="813" lcn="2816" fav="0">
+                <video pid="165" format="mpeg2"/>
+                <pcr pid="5165"/>
+                <audio pid="100" format="mpeg" language="spa"/>
+                <audio pid="101" format="mpeg" language="dos"/>
+            </program>
+        </transponder>
+        <transponder original_network_id="1" ts_id="65535" frequency="11052000" symbol_rate="22000000" polarisation="H"/>
+        <transponder original_network_id="1" ts_id="65535" frequency="11067000" symbol_rate="22000000" polarisation="V"/>
+        <transponder original_network_id="1" ts_id="65535" frequency="11082000" symbol_rate="22000000" polarisation="H"/>
+        <transponder original_network_id="1" ts_id="65535" frequency="11097000" symbol_rate="22000000" polarisation="V">
+            <program name="xxx#VAMOS BAR1" service_id="30060" channel_number="4" type="1" scrambled="true" parental_lock="false" skip="false" id="4226" plp_id="255" sdt_version="2" default_channnel_num="844" lcn="2844" fav="0">
+                <video pid="4060" format="mpeg2"/>
+                <pcr pid="4060"/>
+                <audio pid="4061" format="mpeg" language="spa"/>
+                <audio pid="4062" format="mpeg" language="dos"/>
+            </program>
+            <program name="xxxM. LaLiga 7" service_id="30062" channel_number="74" type="1" scrambled="true" parental_lock="false" skip="false" id="4227" plp_id="255" sdt_version="2" default_channnel_num="846" lcn="2846" fav="0">
+                <video pid="4020" format="mpeg2"/>
+                <pcr pid="4020"/>
+                <audio pid="4021" format="mpeg" language="spa"/>
+                <audio pid="4022" format="mpeg" language="dos"/>
+            </program>
+            <program name="xxxLALIGATVBAR3" service_id="30068" channel_number="60" type="1" scrambled="true" parental_lock="false" skip="false" id="4228" plp_id="255" sdt_version="2" default_channnel_num="852" lcn="2852" fav="0">
+                <video pid="4035" format="mpeg2"/>
+                <pcr pid="4035"/>
+                <audio pid="4036" format="mpeg" language="spa"/>
+                <audio pid="4037" format="mpeg" language="dos"/>
+            </program>
+            <program name="xxxM.LCAMPEON8" service_id="30070" channel_number="87" type="1" scrambled="true" parental_lock="false" skip="false" id="4229" plp_id="255" sdt_version="2" default_channnel_num="854" lcn="2854" fav="0">
+                <video pid="4030" format="mpeg2"/>
+                <pcr pid="4030"/>
+                <audio pid="4031" format="mpeg" language="spa"/>
+                <audio pid="4032" format="mpeg" language="dos"/>
+            </program>
+            <program name="xxxM. LaLiga 10" service_id="30072" channel_number="66" type="1" scrambled="true" parental_lock="false" skip="false" id="4230" plp_id="255" sdt_version="2" default_channnel_num="856" lcn="2856" fav="0">
+                <video pid="4040" format="mpeg2"/>
+                <pcr pid="4040"/>
+                <audio pid="4041" format="mpeg" language="spa"/>
+                <audio pid="4042" format="mpeg" language="dos"/>
+            </program>
+            <program name="xxxM. LaLiga 5" service_id="30073" channel_number="72" type="1" scrambled="true" parental_lock="false" skip="false" id="4231" plp_id="255" sdt_version="2" default_channnel_num="857" lcn="2857" fav="0">
+                <video pid="4050" format="mpeg2"/>
+                <pcr pid="4050"/>
+                <audio pid="4051" format="mpeg" language="spa"/>
+                <audio pid="4052" format="mpeg" language="dos"/>
+            </program>
+            <program name="xxxM.LCAMPEONES" service_id="30075" channel_number="88" type="1" scrambled="true" parental_lock="false" skip="false" id="4232" plp_id="255" sdt_version="2" default_channnel_num="859" lcn="2858" fav="0">
+                <video pid="4090" format="mpeg2"/>
+                <pcr pid="4090"/>
+                <audio pid="4091" format="mpeg" language="spa"/>
+                <audio pid="4092" format="mpeg" language="dos"/>
+                <audio pid="4193" format="mpeg" language="tre"/>
+                <audio pid="4194" format="mpeg" language="und"/>
+                <audio pid="4195" format="mpeg" language="Audio5"/>
+                <audio pid="4196" format="mpeg" language="Audio6"/>
+            </program>
+            <program name="xxxM.LCAMPEON6" service_id="30076" channel_number="85" type="1" scrambled="true" parental_lock="false" skip="false" id="4233" plp_id="255" sdt_version="2" default_channnel_num="860" lcn="2860" fav="0">
+                <video pid="177" format="mpeg2"/>
+                <pcr pid="177"/>
+                <audio pid="148" format="mpeg" language="spa"/>
+                <audio pid="149" format="mpeg" language="dos"/>
+            </program>
+            <program name="xxxM. LaLiga 6" service_id="30078" channel_number="73" type="1" scrambled="true" parental_lock="false" skip="false" id="4234" plp_id="255" sdt_version="2" default_channnel_num="862" lcn="2861" fav="0">
+                <video pid="4096" format="mpeg2"/>
+                <pcr pid="4096"/>
+                <audio pid="4097" format="mpeg" language="spa"/>
+                <audio pid="4098" format="mpeg" language="dos"/>
+            </program>
+            <program name="xxxM. LaLiga 9" service_id="30081" channel_number="76" type="1" scrambled="true" parental_lock="false" skip="false" id="4235" plp_id="255" sdt_version="2" default_channnel_num="865" lcn="2862" fav="0">
+                <video pid="4045" format="mpeg2"/>
+                <pcr pid="4045"/>
+                <audio pid="4046" format="mpeg" language="spa"/>
+                <audio pid="4047" format="mpeg" language="dos"/>
+            </program>
+            <program name="xxxLALIGATVBAR4" service_id="30082" channel_number="61" type="1" scrambled="true" parental_lock="false" skip="false" id="4236" plp_id="255" sdt_version="2" default_channnel_num="866" lcn="2863" fav="0">
+                <video pid="4075" format="mpeg2"/>
+                <pcr pid="4075"/>
+                <audio pid="4076" format="mpeg" language="spa"/>
+                <audio pid="4077" format="mpeg" language="dos"/>
+            </program>
+            <program name="xxx#VAMOS BAR2" service_id="30084" channel_number="5" type="1" scrambled="true" parental_lock="false" skip="false" id="4237" plp_id="255" sdt_version="2" default_channnel_num="868" lcn="2865" fav="0">
+                <video pid="4100" format="mpeg2"/>
+                <pcr pid="4100"/>
+                <audio pid="4101" format="mpeg" language="spa"/>
+                <audio pid="4102" format="mpeg" language="dos"/>
+            </program>
+            <program name="xxxM.LCAMPEON5" service_id="30077" channel_number="84" type="1" scrambled="true" parental_lock="false" skip="false" id="4238" plp_id="255" sdt_version="2" default_channnel_num="861" lcn="2866" fav="0">
+                <video pid="4093" format="mpeg2"/>
+                <pcr pid="4093"/>
+                <audio pid="4094" format="mpeg" language="spa"/>
+                <audio pid="4095" format="mpeg" language="dos"/>
+            </program>
+            <program name="xxxM.LCAMPEON7" service_id="30083" channel_number="86" type="1" scrambled="true" parental_lock="false" skip="false" id="4239" plp_id="255" sdt_version="2" default_channnel_num="867" lcn="2872" fav="0">
+                <video pid="4085" format="mpeg2"/>
+                <pcr pid="4085"/>
+                <audio pid="4086" format="mpeg" language="spa"/>
+                <audio pid="4087" format="mpeg" language="dos"/>
+            </program>
+        </transponder>
+        <transponder original_network_id="1" ts_id="65535" frequency="11111000" symbol_rate="22000000" polarisation="H"/>
+        <transponder original_network_id="1" ts_id="65535" frequency="11126000" symbol_rate="22000000" polarisation="V"/>
+        <transponder original_network_id="1" ts_id="65535" frequency="11141000" symbol_rate="22000000" polarisation="H"/>
+        <transponder original_network_id="1" ts_id="65535" frequency="11156000" symbol_rate="22000000" polarisation="V">
+            <program name="xxx#VAMOS" service_id="30515" channel_number="1" type="1" scrambled="true" parental_lock="false" skip="false" id="4240" plp_id="255" sdt_version="24" default_channnel_num="896" lcn="2893" fav="0">
+                <video pid="168" format="mpeg2"/>
+                <pcr pid="5168"/>
+                <audio pid="112" format="mpeg" language="spa"/>
+                <audio pid="113" format="mpeg" language="dos"/>
+            </program>
+            <program name="xxx#VAMOS" service_id="30516" channel_number="2" type="1" scrambled="true" parental_lock="false" skip="false" id="4241" plp_id="255" sdt_version="24" default_channnel_num="897" lcn="2899" fav="0">
+                <video pid="168" format="mpeg2"/>
+                <pcr pid="5168"/>
+                <audio pid="112" format="mpeg" language="spa"/>
+                <audio pid="113" format="mpeg" language="dos"/>
+            </program>
+        </transponder>
+        <transponder original_network_id="133" ts_id="65535" frequency="11170000" symbol_rate="22000000" polarisation="H">
+            <program name="xxxSky Cinema Action HD" service_id="116" channel_number="115" type="1" scrambled="true" parental_lock="false" skip="false" id="4242" plp_id="255" sdt_version="23" default_channnel_num="902" lcn="2902" fav="0">
+                <video pid="767" format="h264"/>
+                <pcr pid="767"/>
+                <audio pid="771" format="ac3" language="deu"/>
+                <audio pid="772" format="ac3" language="eng"/>
+            </program>
+            <program name="xxxSky Sport Austria 1 HD" service_id="143" channel_number="167" type="1" scrambled="true" parental_lock="false" skip="false" id="4243" plp_id="255" sdt_version="23" default_channnel_num="906" lcn="2906" fav="0">
+                <video pid="1023" format="h264"/>
+                <pcr pid="1023"/>
+                <audio pid="1027" format="ac3" language="qae"/>
+            </program>
+        </transponder>
+        <transponder original_network_id="1" ts_id="65535" frequency="11185000" symbol_rate="22000000" polarisation="V"/>
+        <transponder original_network_id="1" ts_id="65535" frequency="11214000" symbol_rate="22000000" polarisation="H"/>
+        <transponder original_network_id="1" ts_id="65535" frequency="11229000" symbol_rate="22000000" polarisation="V"/>
+        <transponder original_network_id="1" ts_id="65535" frequency="11243000" symbol_rate="22000000" polarisation="H"/>
+        <transponder original_network_id="1" ts_id="65535" frequency="11258000" symbol_rate="22000000" polarisation="V">
+            <program name="xxxM.LCAMPEONES" service_id="30900" channel_number="89" type="1" scrambled="true" parental_lock="false" skip="false" id="4244" plp_id="255" sdt_version="9" default_channnel_num="924" lcn="2924" fav="0">
+                <video pid="160" format="h264"/>
+                <pcr pid="160"/>
+                <audio pid="80" format="ac3" language="spa"/>
+                <audio pid="81" format="ac3" language="dos"/>
+                <audio pid="82" format="mpeg" language="Audio3"/>
+                <audio pid="83" format="mpeg" language="Audio4"/>
+                <audio pid="110" format="mpeg" language="Audio5"/>
+                <audio pid="111" format="mpeg" language="Audio6"/>
+            </program>
+        </transponder>
+        <transponder original_network_id="1" ts_id="65535" frequency="11273000" symbol_rate="22000000" polarisation="H"/>
+        <transponder original_network_id="1" ts_id="65535" frequency="11288000" symbol_rate="22000000" polarisation="V"/>
+        <transponder original_network_id="1" ts_id="65535" frequency="11302000" symbol_rate="22000000" polarisation="H"/>
+        <transponder original_network_id="1" ts_id="65535" frequency="11317000" symbol_rate="22000000" polarisation="V"/>
+        <transponder original_network_id="4369" ts_id="65535" frequency="11332000" symbol_rate="22000000" polarisation="H"/>
+        <transponder original_network_id="1" ts_id="65535" frequency="11347000" symbol_rate="22000000" polarisation="V"/>
+        <transponder original_network_id="1" ts_id="65535" frequency="11361000" symbol_rate="22000000" polarisation="H"/>
+        <transponder original_network_id="1" ts_id="65535" frequency="11376000" symbol_rate="22000000" polarisation="V"/>
+        <transponder original_network_id="1" ts_id="65535" frequency="11391000" symbol_rate="22000000" polarisation="H"/>
+        <transponder original_network_id="1" ts_id="65535" frequency="11406000" symbol_rate="22000000" polarisation="V"/>
+        <transponder original_network_id="1" ts_id="65535" frequency="11420000" symbol_rate="22000000" polarisation="H"/>
+        <transponder original_network_id="1" ts_id="65535" frequency="11435000" symbol_rate="22000000" polarisation="V">
+            <program name="xxxM. LaLiga 2 HD" service_id="29901" channel_number="68" type="1" scrambled="true" parental_lock="false" skip="false" id="4245" plp_id="255" sdt_version="13" default_channnel_num="988" lcn="2988" fav="0">
+                <video pid="161" format="h264"/>
+                <pcr pid="161"/>
+                <audio pid="84" format="mpeg" language="spa"/>
+                <audio pid="85" format="mpeg" language="dos"/>
+            </program>
+            <program name="xxxM. LaLiga 3 HD" service_id="29907" channel_number="70" type="1" scrambled="true" parental_lock="false" skip="false" id="4246" plp_id="255" sdt_version="13" default_channnel_num="990" lcn="2990" fav="0">
+                <video pid="162" format="h264"/>
+                <pcr pid="162"/>
+                <audio pid="92" format="mpeg" language="spa"/>
+                <audio pid="93" format="mpeg" language="dos"/>
+            </program>
+            <program name="xxxM.LCAMPEON1" service_id="29909" channel_number="79" type="1" scrambled="true" parental_lock="false" skip="false" id="4247" plp_id="255" sdt_version="13" default_channnel_num="991" lcn="2991" fav="0">
+                <video pid="164" format="h264"/>
+                <pcr pid="164"/>
+                <audio pid="96" format="mpeg" language="spa"/>
+                <audio pid="97" format="mpeg" language="dos"/>
+                <audio pid="98" format="mpeg" language="Audio3"/>
+                <audio pid="99" format="mpeg" language="Audio4"/>
+            </program>
+            <program name="xxxM.LCAMPEON2" service_id="29915" channel_number="80" type="1" scrambled="true" parental_lock="false" skip="false" id="4248" plp_id="255" sdt_version="13" default_channnel_num="994" lcn="2994" fav="0">
+                <video pid="165" format="h264"/>
+                <pcr pid="165"/>
+                <audio pid="104" format="mpeg" language="spa"/>
+                <audio pid="105" format="mpeg" language="dos"/>
+            </program>
+        </transponder>
+        <transponder original_network_id="1" ts_id="65535" frequency="11464000" symbol_rate="22000000" polarisation="H"/>
+        <transponder original_network_id="1" ts_id="65535" frequency="11479000" symbol_rate="22000000" polarisation="V"/>
+        <transponder original_network_id="1" ts_id="65535" frequency="11493000" symbol_rate="22000000" polarisation="H"/>
+        <transponder original_network_id="1" ts_id="65535" frequency="11508000" symbol_rate="22000000" polarisation="V"/>
+        <transponder original_network_id="1" ts_id="65535" frequency="11523000" symbol_rate="22000000" polarisation="H"/>
+        <transponder original_network_id="1" ts_id="65535" frequency="11538000" symbol_rate="22000000" polarisation="V"/>
+        <transponder original_network_id="1" ts_id="65535" frequency="11552000" symbol_rate="22000000" polarisation="H"/>
+        <transponder original_network_id="1" ts_id="65535" frequency="11567000" symbol_rate="23000000" polarisation="V"/>
+        <transponder original_network_id="1" ts_id="65535" frequency="11582000" symbol_rate="22000000" polarisation="H"/>
+        <transponder original_network_id="1" ts_id="65535" frequency="11597000" symbol_rate="22000000" polarisation="V"/>
+        <transponder original_network_id="1" ts_id="65535" frequency="11611000" symbol_rate="22000000" polarisation="H"/>
+        <transponder original_network_id="1" ts_id="65535" frequency="11626000" symbol_rate="22000000" polarisation="V"/>
+        <transponder original_network_id="1" ts_id="65535" frequency="11641000" symbol_rate="22000000" polarisation="H"/>
+        <transponder original_network_id="1" ts_id="65535" frequency="11656000" symbol_rate="22000000" polarisation="V"/>
+        <transponder original_network_id="1" ts_id="65535" frequency="11670000" symbol_rate="22000000" polarisation="H"/>
+        <transponder original_network_id="1" ts_id="65535" frequency="11685000" symbol_rate="22000000" polarisation="V">
+            <program name="xxxM. LaLiga 3" service_id="30209" channel_number="69" type="1" scrambled="true" parental_lock="false" skip="false" id="4249" plp_id="255" sdt_version="25" default_channnel_num="1063" lcn="3063" fav="0">
+                <video pid="173" format="mpeg2"/>
+                <pcr pid="5173"/>
+                <audio pid="132" format="mpeg" language="spa"/>
+                <audio pid="133" format="mpeg" language="dos"/>
+            </program>
+            <program name="xxxM.LCAMPEON2" service_id="30218" channel_number="81" type="1" scrambled="true" parental_lock="false" skip="false" id="4250" plp_id="255" sdt_version="25" default_channnel_num="1068" lcn="3069" fav="0">
+                <video pid="164" format="mpeg2"/>
+                <pcr pid="5164"/>
+                <audio pid="96" format="mpeg" language="spa"/>
+                <audio pid="97" format="mpeg" language="dos"/>
+            </program>
+            <program name="xxxM. LaLiga 1" service_id="30222" channel_number="64" type="1" scrambled="true" parental_lock="false" skip="false" id="4251" plp_id="255" sdt_version="25" default_channnel_num="1070" lcn="3070" fav="0">
+                <video pid="167" format="mpeg2"/>
+                <pcr pid="5167"/>
+                <audio pid="108" format="mpeg" language="spa"/>
+                <audio pid="109" format="mpeg" language="eng"/>
+                <audio pid="110" format="mpeg" language="tre"/>
+                <audio pid="111" format="mpeg" language="Audio4"/>
+            </program>
+        </transponder>
+        <transponder original_network_id="133" ts_id="65535" frequency="11719000" symbol_rate="27500000" polarisation="H">
+            <program name="xxxSky Cinema Fun" service_id="8" channel_number="130" type="1" scrambled="true" parental_lock="false" skip="false" id="4252" plp_id="255" sdt_version="21" default_channnel_num="1071" lcn="3071" fav="0">
+                <video pid="1023" format="h264"/>
+                <pcr pid="1023"/>
+                <audio pid="1024" format="mpeg" language="deu"/>
+                <audio pid="1025" format="mpeg" language="eng"/>
+            </program>
+            <program name="xxxSky Cinema Action" service_id="9" channel_number="113" type="1" scrambled="true" parental_lock="false" skip="false" id="4253" plp_id="255" sdt_version="21" default_channnel_num="1072" lcn="3072" fav="0">
+                <video pid="767" format="h264"/>
+                <pcr pid="767"/>
+                <audio pid="768" format="mpeg" language="deu"/>
+                <audio pid="769" format="mpeg" language="eng"/>
+            </program>
+        </transponder>
+        <transponder original_network_id="1" ts_id="65535" frequency="11739000" symbol_rate="27500000" polarisation="V"/>
+        <transponder original_network_id="133" ts_id="65535" frequency="11758000" symbol_rate="27500000" polarisation="H">
+            <program name="xxxSky Sport Austria 1" service_id="30" channel_number="166" type="1" scrambled="true" parental_lock="false" skip="false" id="4254" plp_id="255" sdt_version="28" default_channnel_num="1078" lcn="3078" fav="0">
+                <video pid="2047" format="h264"/>
+                <pcr pid="2047"/>
+                <audio pid="2048" format="mpeg" language="qae"/>
+            </program>
+            <program name="xxxSky Cinema Best Of" service_id="41" channel_number="116" type="1" scrambled="true" parental_lock="false" skip="false" id="4255" plp_id="255" sdt_version="28" default_channnel_num="1079" lcn="3079" fav="0">
+                <video pid="255" format="h264"/>
+                <pcr pid="255"/>
+                <audio pid="256" format="mpeg" language="deu"/>
+                <audio pid="257" format="mpeg" language="eng"/>
+            </program>
+            <program name="xxxSky One HD" service_id="147" channel_number="149" type="1" scrambled="true" parental_lock="false" skip="false" id="4256" plp_id="255" sdt_version="28" default_channnel_num="1081" lcn="3080" fav="0">
+                <video pid="511" format="h264"/>
+                <pcr pid="511"/>
+                <audio pid="515" format="ac3" language="deu"/>
+                <audio pid="516" format="ac3" language="eng"/>
+            </program>
+            <program name="xxxSky Sport 2" service_id="222" channel_number="160" type="1" scrambled="true" parental_lock="false" skip="false" id="4257" plp_id="255" sdt_version="28" default_channnel_num="1082" lcn="3081" fav="0">
+                <video pid="1791" format="h264"/>
+                <pcr pid="1791"/>
+                <audio pid="1792" format="mpeg" language="qae"/>
+                <audio pid="1793" format="mpeg" language="qaf"/>
+            </program>
+            <program name="xxxSky Cinema Family HD" service_id="139" channel_number="129" type="1" scrambled="true" parental_lock="false" skip="false" id="4258" plp_id="255" sdt_version="28" default_channnel_num="1080" lcn="3084" fav="0">
+                <video pid="767" format="h264"/>
+                <pcr pid="767"/>
+                <audio pid="771" format="ac3" language="deu"/>
+                <audio pid="772" format="ac3" language="eng"/>
+            </program>
+        </transponder>
+        <transponder original_network_id="1" ts_id="65535" frequency="11778000" symbol_rate="29500000" polarisation="V"/>
+        <transponder original_network_id="133" ts_id="65535" frequency="11797000" symbol_rate="27500000" polarisation="H">
+            <program name="xxxSky Sport BundesBu&#135;ndes&#134;li&#135;ga&#134; UHD&#135;" service_id="552" channel_number="169" type="1" scrambled="true" parental_lock="false" skip="false" id="4259" plp_id="255" sdt_version="29" default_channnel_num="1089" lcn="3089" fav="0">
+                <video pid="1791" format="hevc"/>
+                <pcr pid="1791"/>
+                <audio pid="1795" format="eac3" language="qab"/>
+                <audio pid="1796" format="eac3" language="qac"/>
+            </program>
+        </transponder>
+        <transponder original_network_id="1" ts_id="65535" frequency="11817000" symbol_rate="29700000" polarisation="V"/>
+        <transponder original_network_id="1" ts_id="65535" frequency="11836000" symbol_rate="27500000" polarisation="H"/>
+        <transponder original_network_id="1" ts_id="65535" frequency="11856000" symbol_rate="29700000" polarisation="V"/>
+        <transponder original_network_id="133" ts_id="65535" frequency="11875000" symbol_rate="27500000" polarisation="H"/>
+        <transponder original_network_id="1" ts_id="65535" frequency="11895000" symbol_rate="29700000" polarisation="V"/>
+        <transponder original_network_id="133" ts_id="65535" frequency="11914000" symbol_rate="27500000" polarisation="H">
+            <program name="xxxSky Cinema Premieren +24en +24&#135;" service_id="43" channel_number="132" type="1" scrambled="true" parental_lock="false" skip="false" id="4260" plp_id="255" sdt_version="17" default_channnel_num="1136" lcn="3136" fav="0">
+                <video pid="4607" format="h264"/>
+                <pcr pid="4607"/>
+                <audio pid="4608" format="mpeg" language="deu"/>
+                <audio pid="4609" format="mpeg" language="eng"/>
+            </program>
+            <program name="xxxSky Sport 1 HD" service_id="129" channel_number="159" type="1" scrambled="true" parental_lock="false" skip="false" id="4261" plp_id="255" sdt_version="17" default_channnel_num="1138" lcn="3138" fav="0">
+                <video pid="767" format="h264"/>
+                <pcr pid="767"/>
+                <audio pid="770" format="ac3" language="qae"/>
+                <audio pid="772" format="ac3" language="qaf"/>
+            </program>
+            <program name="xxxSky Cinema Premieren HD" service_id="131" channel_number="134" type="1" scrambled="true" parental_lock="false" skip="false" id="4262" plp_id="255" sdt_version="17" default_channnel_num="1140" lcn="3140" fav="0">
+                <video pid="1279" format="h264"/>
+                <pcr pid="1279"/>
+                <audio pid="1283" format="ac3" language="deu"/>
+                <audio pid="1284" format="ac3" language="eng"/>
+            </program>
+            <program name="xxxSky Cinema Classics" service_id="516" channel_number="118" type="1" scrambled="true" parental_lock="false" skip="false" id="4263" plp_id="255" sdt_version="17" default_channnel_num="1141" lcn="3141" fav="0">
+                <video pid="1791" format="h264"/>
+                <pcr pid="1791"/>
+                <audio pid="1792" format="mpeg" language="deu"/>
+            </program>
+        </transponder>
+        <transponder original_network_id="1" ts_id="65535" frequency="11934000" symbol_rate="29700000" polarisation="V"/>
+        <transponder original_network_id="1" ts_id="65535" frequency="11953000" symbol_rate="27500000" polarisation="H"/>
+        <transponder original_network_id="1" ts_id="65535" frequency="11973000" symbol_rate="27500000" polarisation="V"/>
+        <transponder original_network_id="133" ts_id="65535" frequency="11992000" symbol_rate="27500000" polarisation="H">
+            <program name="xxxSky Atlantic HD" service_id="110" channel_number="111" type="1" scrambled="true" parental_lock="false" skip="false" id="4264" plp_id="255" sdt_version="13" default_channnel_num="1170" lcn="3170" fav="0">
+                <video pid="1279" format="h264"/>
+                <pcr pid="1279"/>
+                <audio pid="1283" format="ac3" language="deu"/>
+                <audio pid="1284" format="ac3" language="eng"/>
+            </program>
+            <program name="xxxSky Cinema Special HD" service_id="111" channel_number="136" type="1" scrambled="true" parental_lock="false" skip="false" id="4265" plp_id="255" sdt_version="13" default_channnel_num="1171" lcn="3171" fav="0">
+                <video pid="255" format="h264"/>
+                <pcr pid="255"/>
+                <audio pid="259" format="ac3" language="deu"/>
+                <audio pid="260" format="ac3" language="eng"/>
+            </program>
+            <program name="xxxSky Sport 2 HD" service_id="114" channel_number="161" type="1" scrambled="true" parental_lock="false" skip="false" id="4266" plp_id="255" sdt_version="13" default_channnel_num="1173" lcn="3173" fav="0">
+                <video pid="1023" format="h264"/>
+                <pcr pid="1023"/>
+                <audio pid="1026" format="ac3" language="qae"/>
+                <audio pid="1028" format="ac3" language="qaf"/>
+            </program>
+        </transponder>
+        <transponder original_network_id="1" ts_id="65535" frequency="12012000" symbol_rate="29700000" polarisation="V">
+            <program name="xxxCANAL+ SPORT" service_id="8804" channel_number="21" type="1" scrambled="true" parental_lock="false" skip="false" id="4267" plp_id="255" sdt_version="25" default_channnel_num="1178" lcn="3178" fav="0">
+                <video pid="410" format="h264"/>
+                <pcr pid="410"/>
+                <audio pid="421" format="ac3" language="fra"/>
+                <audio pid="422" format="ac3" language="eng"/>
+            </program>
+        </transponder>
+        <transponder original_network_id="133" ts_id="65535" frequency="12031000" symbol_rate="27500000" polarisation="H">
+            <program name="xxxSky Cinema Premieren" service_id="10" channel_number="131" type="1" scrambled="true" parental_lock="false" skip="false" id="4268" plp_id="255" sdt_version="5" default_channnel_num="1186" lcn="3186" fav="0">
+                <video pid="255" format="h264"/>
+                <pcr pid="255"/>
+                <audio pid="256" format="mpeg" language="deu"/>
+                <audio pid="257" format="mpeg" language="eng"/>
+            </program>
+            <program name="xxxSky Cinema Thriller HD" service_id="11" channel_number="139" type="1" scrambled="true" parental_lock="false" skip="false" id="4269" plp_id="255" sdt_version="5" default_channnel_num="1187" lcn="3187" fav="0">
+                <video pid="1279" format="h264"/>
+                <pcr pid="1279"/>
+                <audio pid="1283" format="ac3" language="deu"/>
+            </program>
+            <program name="xxxSky Krimi HD" service_id="23" channel_number="143" type="1" scrambled="true" parental_lock="false" skip="false" id="4270" plp_id="255" sdt_version="5" default_channnel_num="1188" lcn="3188" fav="0">
+                <video pid="1535" format="h264"/>
+                <pcr pid="1535"/>
+                <audio pid="1539" format="ac3" language="deu"/>
+            </program>
+            <program name="xxxSky Serien &amp; Shows &#135; &#134;Shows&#135; HD" service_id="117" channel_number="154" type="1" scrambled="true" parental_lock="false" skip="false" id="4271" plp_id="255" sdt_version="5" default_channnel_num="1189" lcn="3189" fav="0">
+                <video pid="2047" format="h264"/>
+                <pcr pid="2047"/>
+                <audio pid="2051" format="ac3" language="deu"/>
+                <audio pid="2052" format="ac3" language="eng"/>
+            </program>
+            <program name="xxxSky Sport 1" service_id="221" channel_number="158" type="1" scrambled="true" parental_lock="false" skip="false" id="4272" plp_id="255" sdt_version="5" default_channnel_num="1191" lcn="3191" fav="0">
+                <video pid="1791" format="h264"/>
+                <pcr pid="1791"/>
+                <audio pid="1792" format="mpeg" language="qae"/>
+                <audio pid="1793" format="mpeg" language="qaf"/>
+            </program>
+            <program name="xxxSky Sport BundesBu&#135;ndes&#134;li&#135;ga&#134; 1&#135;" service_id="223" channel_number="168" type="1" scrambled="true" parental_lock="false" skip="false" id="4273" plp_id="255" sdt_version="5" default_channnel_num="1192" lcn="3192" fav="0">
+                <video pid="2303" format="h264"/>
+                <pcr pid="2303"/>
+                <audio pid="2304" format="mpeg" language="qab"/>
+                <audio pid="2305" format="mpeg" language="qac"/>
+            </program>
+            <program name="xxxSky Cinema Family" service_id="407" channel_number="128" type="1" scrambled="true" parental_lock="false" skip="false" id="4274" plp_id="255" sdt_version="5" default_channnel_num="1193" lcn="3193" fav="0">
+                <video pid="4095" format="h264"/>
+                <pcr pid="4095"/>
+                <audio pid="4096" format="mpeg" language="deu"/>
+                <audio pid="4097" format="mpeg" language="eng"/>
+            </program>
+        </transponder>
+        <transponder original_network_id="1" ts_id="65535" frequency="12051000" symbol_rate="27500000" polarisation="V"/>
+        <transponder original_network_id="133" ts_id="65535" frequency="12070000" symbol_rate="27500000" polarisation="H"/>
+        <transponder original_network_id="1" ts_id="65535" frequency="12090000" symbol_rate="29700000" polarisation="V"/>
+        <transponder original_network_id="1" ts_id="65535" frequency="12109000" symbol_rate="27500000" polarisation="H"/>
+        <transponder original_network_id="1" ts_id="65535" frequency="12129000" symbol_rate="29700000" polarisation="V"/>
+        <transponder original_network_id="133" ts_id="65535" frequency="12148000" symbol_rate="27500000" polarisation="H"/>
+        <transponder original_network_id="1" ts_id="65535" frequency="12168000" symbol_rate="29700000" polarisation="V"/>
+        <transponder original_network_id="1" ts_id="65535" frequency="12187000" symbol_rate="27500000" polarisation="H"/>
+        <transponder original_network_id="1" ts_id="65535" frequency="12207000" symbol_rate="29700000" polarisation="V"/>
+        <transponder original_network_id="1" ts_id="65535" frequency="12226000" symbol_rate="27500000" polarisation="H"/>
+        <transponder original_network_id="1" ts_id="65535" frequency="12246000" symbol_rate="29700000" polarisation="V"/>
+        <transponder original_network_id="1" ts_id="65535" frequency="12265000" symbol_rate="27500000" polarisation="H"/>
+        <transponder original_network_id="1" ts_id="65535" frequency="12285000" symbol_rate="29700000" polarisation="V"/>
+        <transponder original_network_id="133" ts_id="65535" frequency="12304000" symbol_rate="27500000" polarisation="H">
+            <program name="xxxSky Sport Bunde&#134;Bu&#135;ndes&#134;li&#135;ga&#134; 1 HD&#135;" service_id="105" channel_number="170" type="1" scrambled="true" parental_lock="false" skip="false" id="4275" plp_id="255" sdt_version="0" default_channnel_num="1325" lcn="3325" fav="0">
+                <video pid="255" format="h264"/>
+                <pcr pid="255"/>
+                <audio pid="258" format="ac3" language="qab"/>
+                <audio pid="260" format="ac3" language="qac"/>
+            </program>
+            <program name="xxxSky Cinema Best Of HD" service_id="107" channel_number="117" type="1" scrambled="true" parental_lock="false" skip="false" id="4276" plp_id="255" sdt_version="0" default_channnel_num="1326" lcn="3326" fav="0">
+                <video pid="767" format="h264"/>
+                <pcr pid="767"/>
+                <audio pid="771" format="ac3" language="deu"/>
+                <audio pid="772" format="ac3" language="eng"/>
+            </program>
+            <program name="xxxSky Sport News HD" service_id="108" channel_number="184" type="1" scrambled="false" parental_lock="false" skip="false" id="4277" plp_id="255" sdt_version="0" default_channnel_num="1327" lcn="3327" fav="0">
+                <video pid="1023" format="h264"/>
+                <pcr pid="1023"/>
+                <audio pid="1027" format="ac3" language="deu"/>
+            </program>
+        </transponder>
+        <transponder original_network_id="1" ts_id="65535" frequency="12324000" symbol_rate="29700000" polarisation="V"/>
+        <transponder original_network_id="1" ts_id="65535" frequency="12343000" symbol_rate="30000000" polarisation="H"/>
+        <transponder original_network_id="1" ts_id="65535" frequency="12363000" symbol_rate="27500000" polarisation="V"/>
+        <transponder original_network_id="133" ts_id="65535" frequency="12382000" symbol_rate="27500000" polarisation="H">
+            <program name="xxxSky Cinema Premieren +2ren +24 HD&#135;" service_id="135" channel_number="133" type="1" scrambled="true" parental_lock="false" skip="false" id="4278" plp_id="255" sdt_version="24" default_channnel_num="1355" lcn="3355" fav="0">
+                <video pid="255" format="h264"/>
+                <pcr pid="255"/>
+                <audio pid="259" format="ac3" language="deu"/>
+                <audio pid="260" format="ac3" language="eng"/>
+            </program>
+        </transponder>
+        <transponder original_network_id="1" ts_id="65535" frequency="12402000" symbol_rate="29700000" polarisation="V"/>
+        <transponder original_network_id="1" ts_id="65535" frequency="12421000" symbol_rate="27500000" polarisation="H"/>
+        <transponder original_network_id="1" ts_id="65535" frequency="12441000" symbol_rate="29700000" polarisation="V"/>
+        <transponder original_network_id="133" ts_id="65535" frequency="12460000" symbol_rate="27500000" polarisation="H"/>
+    </satellite>
+    <satellite name="Thor 0.8W" longitude="-8" lof_hi="10600000" lof_lo="9750000" lof_threshold="11700000" lnb_power="13/18v" signal_22khz="auto" toneburst="none" diseqc1_0="lnb1" diseqc1_1="lnb1" motor="none">
+        <transponder original_network_id="70" ts_id="65535" frequency="10716000" symbol_rate="25000000" polarisation="H"/>
+        <transponder original_network_id="70" ts_id="65535" frequency="10716000" symbol_rate="25000000" polarisation="V"/>
+        <transponder original_network_id="70" ts_id="65535" frequency="10747000" symbol_rate="25000000" polarisation="H"/>
+        <transponder original_network_id="70" ts_id="65535" frequency="10747000" symbol_rate="25000000" polarisation="V"/>
+        <transponder original_network_id="70" ts_id="65535" frequency="10778000" symbol_rate="25000000" polarisation="H"/>
+        <transponder original_network_id="70" ts_id="65535" frequency="10778000" symbol_rate="25000000" polarisation="V"/>
+        <transponder original_network_id="70" ts_id="65535" frequency="10809000" symbol_rate="25000000" polarisation="H"/>
+        <transponder original_network_id="70" ts_id="65535" frequency="10809000" symbol_rate="25000000" polarisation="V"/>
+        <transponder original_network_id="70" ts_id="65535" frequency="10841000" symbol_rate="25000000" polarisation="H"/>
+        <transponder original_network_id="70" ts_id="65535" frequency="10841000" symbol_rate="25000000" polarisation="V"/>
+        <transponder original_network_id="70" ts_id="65535" frequency="10872000" symbol_rate="25000000" polarisation="H"/>
+        <transponder original_network_id="70" ts_id="65535" frequency="10872000" symbol_rate="25000000" polarisation="V"/>
+        <transponder original_network_id="70" ts_id="65535" frequency="10903000" symbol_rate="25000000" polarisation="H"/>
+        <transponder original_network_id="70" ts_id="65535" frequency="10903000" symbol_rate="25000000" polarisation="V"/>
+        <transponder original_network_id="70" ts_id="65535" frequency="10934000" symbol_rate="25000000" polarisation="H"/>
+        <transponder original_network_id="70" ts_id="65535" frequency="10934000" symbol_rate="25000000" polarisation="V"/>
+        <transponder original_network_id="1" ts_id="65535" frequency="10987000" symbol_rate="5632000" polarisation="V"/>
+        <transponder original_network_id="0" ts_id="65535" frequency="11006000" symbol_rate="6111000" polarisation="V"/>
+        <transponder original_network_id="65535" ts_id="65535" frequency="11065000" symbol_rate="1500000" polarisation="H"/>
+        <transponder original_network_id="1" ts_id="65535" frequency="11164000" symbol_rate="1450000" polarisation="V"/>
+        <transponder original_network_id="1" ts_id="65535" frequency="11172000" symbol_rate="6111000" polarisation="V"/>
+        <transponder original_network_id="1" ts_id="65535" frequency="11188000" symbol_rate="1005000" polarisation="V"/>
+        <transponder original_network_id="1" ts_id="65535" frequency="11189000" symbol_rate="1005000" polarisation="V"/>
+        <transponder original_network_id="70" ts_id="65535" frequency="11216000" symbol_rate="25000000" polarisation="V"/>
+        <transponder original_network_id="70" ts_id="65535" frequency="11229000" symbol_rate="25000000" polarisation="H"/>
+        <transponder original_network_id="70" ts_id="65535" frequency="11247000" symbol_rate="24500000" polarisation="V"/>
+        <transponder original_network_id="70" ts_id="65535" frequency="11261000" symbol_rate="25000000" polarisation="H"/>
+        <transponder original_network_id="70" ts_id="65535" frequency="11278000" symbol_rate="25000000" polarisation="V"/>
+        <transponder original_network_id="70" ts_id="65535" frequency="11293000" symbol_rate="25000000" polarisation="H"/>
+        <transponder original_network_id="70" ts_id="65535" frequency="11309000" symbol_rate="25000000" polarisation="V"/>
+        <transponder original_network_id="70" ts_id="65535" frequency="11325000" symbol_rate="25000000" polarisation="H"/>
+        <transponder original_network_id="70" ts_id="65535" frequency="11341000" symbol_rate="25000000" polarisation="V"/>
+        <transponder original_network_id="70" ts_id="65535" frequency="11357000" symbol_rate="24500000" polarisation="H"/>
+        <transponder original_network_id="70" ts_id="65535" frequency="11372000" symbol_rate="25000000" polarisation="V"/>
+        <transponder original_network_id="70" ts_id="65535" frequency="11389000" symbol_rate="24500000" polarisation="H"/>
+        <transponder original_network_id="70" ts_id="65535" frequency="11403000" symbol_rate="25000000" polarisation="V"/>
+        <transponder original_network_id="70" ts_id="65535" frequency="11421000" symbol_rate="25000000" polarisation="H"/>
+        <transponder original_network_id="70" ts_id="65535" frequency="11434000" symbol_rate="24500000" polarisation="V"/>
+        <transponder original_network_id="65535" ts_id="65535" frequency="11463000" symbol_rate="6111000" polarisation="V"/>
+        <transponder original_network_id="0" ts_id="65535" frequency="11473000" symbol_rate="6111000" polarisation="V"/>
+        <transponder original_network_id="65535" ts_id="65535" frequency="11481000" symbol_rate="6111000" polarisation="V"/>
+        <transponder original_network_id="0" ts_id="65535" frequency="11487000" symbol_rate="3100000" polarisation="V"/>
+        <transponder original_network_id="65535" ts_id="65535" frequency="11490000" symbol_rate="6111000" polarisation="V"/>
+        <transponder original_network_id="1" ts_id="65535" frequency="11497000" symbol_rate="3200000" polarisation="V"/>
+        <transponder original_network_id="65535" ts_id="65535" frequency="11502000" symbol_rate="3200000" polarisation="V"/>
+        <transponder original_network_id="0" ts_id="65535" frequency="11525000" symbol_rate="22035000" polarisation="V"/>
+        <transponder original_network_id="65535" ts_id="65535" frequency="11542000" symbol_rate="3470000" polarisation="V"/>
+        <transponder original_network_id="65535" ts_id="65535" frequency="11548000" symbol_rate="3472000" polarisation="V"/>
+        <transponder original_network_id="1" ts_id="65535" frequency="11553000" symbol_rate="6111000" polarisation="V"/>
+        <transponder original_network_id="65535" ts_id="65535" frequency="11675000" symbol_rate="3207000" polarisation="V"/>
+        <transponder original_network_id="1536" ts_id="65535" frequency="11727000" symbol_rate="28000000" polarisation="V"/>
+        <transponder original_network_id="4369" ts_id="65535" frequency="11747000" symbol_rate="28000000" polarisation="H"/>
+        <transponder original_network_id="1536" ts_id="65535" frequency="11766000" symbol_rate="28000000" polarisation="V"/>
+        <transponder original_network_id="1" ts_id="65535" frequency="11785000" symbol_rate="28000000" polarisation="H"/>
+        <transponder original_network_id="1536" ts_id="703" frequency="11804000" symbol_rate="30000000" polarisation="V">
+            <program name="xxxArena4 HD " service_id="30308" channel_number="20" type="1" scrambled="true" parental_lock="false" skip="false" id="4279" plp_id="255" sdt_version="23" default_channnel_num="2365" lcn="4378" fav="0">
+                <video pid="451" format="h264"/>
+                <pcr pid="451"/>
+                <audio pid="460" format="mpeg" language="hun"/>
+                <audio pid="461" format="mpeg" language="eng"/>
+            </program>
+        </transponder>
+        <transponder original_network_id="1" ts_id="13" frequency="11823000" symbol_rate="30000000" polarisation="H">
+            <program name="xxxDIGI Sport 1 HD HU" service_id="4020" channel_number="34" type="1" scrambled="true" parental_lock="false" skip="false" id="4280" plp_id="255" sdt_version="26" default_channnel_num="2381" lcn="4381" fav="0">
+                <video pid="4076" format="h264"/>
+                <pcr pid="4076"/>
+                <audio pid="4100" format="mpeg" language="hun"/>
+            </program>
+            <program name="xxxDIGI Sport 2 HD HU" service_id="4060" channel_number="39" type="1" scrambled="true" parental_lock="false" skip="false" id="4281" plp_id="255" sdt_version="26" default_channnel_num="2385" lcn="4385" fav="0">
+                <video pid="4081" format="h264"/>
+                <pcr pid="4081"/>
+                <audio pid="4105" format="mpeg" language="hun"/>
+            </program>
+            <program name="xxxDIGI Sport 1 HD RO" service_id="4070" channel_number="35" type="1" scrambled="true" parental_lock="false" skip="false" id="4282" plp_id="255" sdt_version="26" default_channnel_num="2386" lcn="4386" fav="0">
+                <video pid="602" format="h264"/>
+                <pcr pid="602"/>
+                <audio pid="603" format="mpeg" language="rum"/>
+                <audio pid="604" format="mpeg" language="hun"/>
+            </program>
+            <program name="xxxDIGI Sport 2 HD RO" service_id="4080" channel_number="40" type="1" scrambled="true" parental_lock="false" skip="false" id="4283" plp_id="255" sdt_version="26" default_channnel_num="2387" lcn="4387" fav="0">
+                <video pid="702" format="h264"/>
+                <pcr pid="702"/>
+                <audio pid="703" format="mpeg" language="rum"/>
+                <audio pid="704" format="mpeg" language="hun"/>
+            </program>
+        </transponder>
+        <transponder original_network_id="1536" ts_id="65535" frequency="11843000" symbol_rate="30000000" polarisation="V"/>
+        <transponder original_network_id="1" ts_id="65535" frequency="11862000" symbol_rate="28000000" polarisation="H">
+            <program name="xxxDIGI Sport 1" service_id="1013" channel_number="32" type="1" scrambled="true" parental_lock="false" skip="false" id="4284" plp_id="255" sdt_version="9" default_channnel_num="2405" lcn="4418" fav="0">
+                <video pid="513" format="mpeg2"/>
+                <pcr pid="513"/>
+                <audio pid="663" format="mpeg" language="rum"/>
+                <audio pid="664" format="mpeg" language="hun"/>
+            </program>
+        </transponder>
+        <transponder original_network_id="70" ts_id="65535" frequency="11881000" symbol_rate="30000000" polarisation="V"/>
+        <transponder original_network_id="1" ts_id="12" frequency="11900000" symbol_rate="28000000" polarisation="H">
+            <program name="xxxDIGI Sport 3" service_id="1036" channel_number="42" type="1" scrambled="true" parental_lock="false" skip="false" id="4285" plp_id="255" sdt_version="2" default_channnel_num="2420" lcn="4420" fav="0">
+                <video pid="4056" format="mpeg2"/>
+                <pcr pid="4056"/>
+                <audio pid="4057" format="mpeg" language="rum"/>
+                <audio pid="5058" format="mpeg" language="hun"/>
+            </program>
+            <program name="xxxLookSport" service_id="3550" channel_number="62" type="1" scrambled="true" parental_lock="false" skip="false" id="4286" plp_id="255" sdt_version="2" default_channnel_num="2432" lcn="4427" fav="0">
+                <video pid="4058" format="mpeg2"/>
+                <pcr pid="4058"/>
+                <audio pid="4059" format="mpeg" language="rum"/>
+            </program>
+        </transponder>
+        <transponder original_network_id="1536" ts_id="65535" frequency="11919000" symbol_rate="28000000" polarisation="V"/>
+        <transponder original_network_id="1536" ts_id="65535" frequency="11938000" symbol_rate="28000000" polarisation="H"/>
+        <transponder original_network_id="1536" ts_id="65535" frequency="11958000" symbol_rate="28000000" polarisation="V"/>
+        <transponder original_network_id="187" ts_id="2802" frequency="11977000" symbol_rate="30000000" polarisation="H">
+            <program name="xxxDigi Sport 1 HD" service_id="2012" channel_number="33" type="1" scrambled="true" parental_lock="false" skip="false" id="4287" plp_id="255" sdt_version="24" default_channnel_num="2532" lcn="4531" fav="0">
+                <video pid="1202" format="h264"/>
+                <pcr pid="1202"/>
+                <audio pid="1203" format="aac" language="slo"/>
+            </program>
+            <program name="xxxDigi Sport 3 HD" service_id="2014" channel_number="43" type="1" scrambled="true" parental_lock="false" skip="false" id="4288" plp_id="255" sdt_version="24" default_channnel_num="2533" lcn="4533" fav="0">
+                <video pid="1402" format="h264"/>
+                <pcr pid="1402"/>
+                <audio pid="1403" format="aac" language="slo"/>
+            </program>
+        </transponder>
+        <transponder original_network_id="1536" ts_id="65535" frequency="11996000" symbol_rate="28000000" polarisation="V"/>
+        <transponder original_network_id="70" ts_id="65535" frequency="12015000" symbol_rate="30000000" polarisation="H"/>
+        <transponder original_network_id="1536" ts_id="65535" frequency="12034000" symbol_rate="30000000" polarisation="V">
+            <program name="xxxArena Sport 1 HD" service_id="30506" channel_number="17" type="1" scrambled="true" parental_lock="false" skip="false" id="4289" plp_id="255" sdt_version="20" default_channnel_num="2587" lcn="4587" fav="0">
+                <video pid="351" format="h264"/>
+                <pcr pid="351"/>
+                <audio pid="364" format="mpeg" language="slo"/>
+            </program>
+        </transponder>
+        <transponder original_network_id="187" ts_id="65535" frequency="12054000" symbol_rate="30000000" polarisation="H"/>
+        <transponder original_network_id="1536" ts_id="65535" frequency="12073000" symbol_rate="28000000" polarisation="V"/>
+        <transponder original_network_id="4369" ts_id="65535" frequency="12092000" symbol_rate="28000000" polarisation="H"/>
+        <transponder original_network_id="70" ts_id="65535" frequency="12111000" symbol_rate="30000000" polarisation="V"/>
+        <transponder original_network_id="1" ts_id="65535" frequency="12130000" symbol_rate="28000000" polarisation="H">
+            <program name="xxxDIGI Sport 2 HU" service_id="1187" channel_number="41" type="1" scrambled="true" parental_lock="false" skip="false" id="4290" plp_id="255" sdt_version="3" default_channnel_num="2663" lcn="4666" fav="0">
+                <video pid="546" format="mpeg2"/>
+                <pcr pid="546"/>
+                <audio pid="696" format="mpeg" language="hun"/>
+            </program>
+            <program name="xxxDIGI Sport 3 HU" service_id="1031" channel_number="44" type="1" scrambled="true" parental_lock="false" skip="false" id="4291" plp_id="255" sdt_version="3" default_channnel_num="2659" lcn="4668" fav="0">
+                <video pid="531" format="mpeg2"/>
+                <pcr pid="531"/>
+                <audio pid="681" format="mpeg" language="hun"/>
+            </program>
+            <program name="xxxDIGI Sport 1 HU" service_id="1180" channel_number="36" type="1" scrambled="true" parental_lock="false" skip="false" id="4292" plp_id="255" sdt_version="3" default_channnel_num="2662" lcn="4669" fav="0">
+                <video pid="537" format="mpeg2"/>
+                <pcr pid="537"/>
+                <audio pid="888" format="mpeg" language="hun"/>
+            </program>
+        </transponder>
+        <transponder original_network_id="70" ts_id="65535" frequency="12149000" symbol_rate="28000000" polarisation="V"/>
+        <transponder original_network_id="187" ts_id="65535" frequency="12169000" symbol_rate="30000000" polarisation="H"/>
+        <transponder original_network_id="1" ts_id="65535" frequency="12188000" symbol_rate="28000000" polarisation="V"/>
+        <transponder original_network_id="70" ts_id="65535" frequency="12207000" symbol_rate="30000000" polarisation="H"/>
+        <transponder original_network_id="704" ts_id="65535" frequency="12226000" symbol_rate="27500000" polarisation="V"/>
+        <transponder original_network_id="187" ts_id="65535" frequency="12245000" symbol_rate="30000000" polarisation="H">
+            <program name="xxxDigi Sport 2 HD" service_id="4026" channel_number="38" type="1" scrambled="true" parental_lock="false" skip="false" id="4293" plp_id="255" sdt_version="26" default_channnel_num="2748" lcn="4748" fav="0">
+                <video pid="2602" format="h264"/>
+                <pcr pid="2602"/>
+                <audio pid="2603" format="aac" language="slo"/>
+            </program>
+        </transponder>
+        <transponder original_network_id="1536" ts_id="65535" frequency="12265000" symbol_rate="28000000" polarisation="V">
+            <program name="xxxArena4" service_id="30933" channel_number="19" type="1" scrambled="true" parental_lock="false" skip="false" id="4294" plp_id="255" sdt_version="24" default_channnel_num="2781" lcn="4781" fav="0">
+                <video pid="2001" format="mpeg2"/>
+                <pcr pid="2001"/>
+                <audio pid="2010" format="mpeg" language="hun"/>
+                <audio pid="2011" format="mpeg" language="eng"/>
+            </program>
+        </transponder>
+        <transponder original_network_id="70" ts_id="65535" frequency="12284000" symbol_rate="30000000" polarisation="H"/>
+        <transponder original_network_id="94" ts_id="65535" frequency="12303000" symbol_rate="27500000" polarisation="V"/>
+        <transponder original_network_id="70" ts_id="65535" frequency="12322000" symbol_rate="28000000" polarisation="H"/>
+        <transponder original_network_id="1" ts_id="65535" frequency="12341000" symbol_rate="28000000" polarisation="V"/>
+        <transponder original_network_id="70" ts_id="65535" frequency="12360000" symbol_rate="30000000" polarisation="H"/>
+        <transponder original_network_id="187" ts_id="65535" frequency="12380000" symbol_rate="30000000" polarisation="V"/>
+        <transponder original_network_id="70" ts_id="65535" frequency="12399000" symbol_rate="30000000" polarisation="H"/>
+        <transponder original_network_id="70" ts_id="20" frequency="12418000" symbol_rate="28000000" polarisation="V">
+            <program name="xxxSky News" service_id="3837" channel_number="147" type="1" scrambled="false" parental_lock="false" skip="false" id="4295" plp_id="255" sdt_version="30" default_channnel_num="2840" lcn="4839" fav="0">
+                <video pid="1206" format="mpeg2"/>
+                <pcr pid="1206"/>
+                <audio pid="3202" format="mpeg" language="eng"/>
+            </program>
+        </transponder>
+        <transponder original_network_id="70" ts_id="65535" frequency="12437000" symbol_rate="30000000" polarisation="H"/>
+        <transponder original_network_id="4369" ts_id="65535" frequency="12456000" symbol_rate="30000000" polarisation="V"/>
+        <transponder original_network_id="70" ts_id="65535" frequency="12476000" symbol_rate="30000000" polarisation="H"/>
+        <transponder original_network_id="64" ts_id="65535" frequency="12512000" symbol_rate="2400000" polarisation="V"/>
+        <transponder original_network_id="187" ts_id="65535" frequency="12527000" symbol_rate="28800000" polarisation="H"/>
+        <transponder original_network_id="187" ts_id="65535" frequency="12563000" symbol_rate="28800000" polarisation="H"/>
+        <transponder original_network_id="1" ts_id="65535" frequency="12563000" symbol_rate="27500000" polarisation="V"/>
+        <transponder original_network_id="65282" ts_id="65535" frequency="12643000" symbol_rate="30000000" polarisation="H"/>
+        <transponder original_network_id="1" ts_id="65535" frequency="12607000" symbol_rate="26660000" polarisation="V"/>
+        <transponder original_network_id="65282" ts_id="65535" frequency="12643000" symbol_rate="30000000" polarisation="H"/>
+        <transponder original_network_id="2" ts_id="65535" frequency="12643000" symbol_rate="28800000" polarisation="V"/>
+        <transponder original_network_id="1" ts_id="1" frequency="12687000" symbol_rate="27500000" polarisation="H">
+            <program name="xxxDIGI Sport 4" service_id="1009" channel_number="45" type="1" scrambled="true" parental_lock="false" skip="false" id="4296" plp_id="255" sdt_version="10" default_channnel_num="2917" lcn="4917" fav="0">
+                <video pid="509" format="mpeg2"/>
+                <pcr pid="509"/>
+                <audio pid="659" format="mpeg" language="rum"/>
+                <audio pid="1660" format="mpeg" language="hun"/>
+            </program>
+            <program name="xxxDIGI Sport 2" service_id="1010" channel_number="37" type="1" scrambled="true" parental_lock="false" skip="false" id="4297" plp_id="255" sdt_version="10" default_channnel_num="2918" lcn="4923" fav="0">
+                <video pid="510" format="mpeg2"/>
+                <pcr pid="510"/>
+                <audio pid="660" format="mpeg" language="rum"/>
+                <audio pid="661" format="mpeg" language="hun"/>
+            </program>
+        </transponder>
+        <transponder original_network_id="10" ts_id="65535" frequency="12705000" symbol_rate="45000000" polarisation="V"/>
+    </satellite>
+</db>

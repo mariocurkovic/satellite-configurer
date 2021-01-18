@@ -1,0 +1,392 @@
+<?xml version="1.0" encoding="utf-8"?>
+<db>
+    <version winsat_editer="2.3" />
+    <satellite name="HotBird 13.0E"
+               longitude="130"
+               lof_hi="10600000"
+               lof_lo="9750000"
+               lof_threshold="11700000"
+               lnb_power="13/18v"
+               signal_22khz="auto"
+               toneburst="none"
+               diseqc1_0="none"
+               diseqc1_1="none"
+               motor="none">
+        <transponder original_network_id="318" ts_id="11000" frequency="10719000" symbol_rate="27500000" polarisation="V" />
+        <transponder original_network_id="318" ts_id="11100" frequency="10727000" symbol_rate="30000000" polarisation="H" />
+        <transponder original_network_id="318" ts_id="11200" frequency="10758000" symbol_rate="27500000" polarisation="V" />
+        <transponder original_network_id="318" ts_id="11300" frequency="10775000" symbol_rate="29900000" polarisation="H" />
+        <transponder original_network_id="318" ts_id="11400" frequency="10796000" symbol_rate="27500000" polarisation="V" />
+        <transponder original_network_id="318" ts_id="11500" frequency="10815000" symbol_rate="27500000" polarisation="H" />
+        <transponder original_network_id="318" ts_id="11600" frequency="10834000" symbol_rate="27500000" polarisation="V" />
+        <transponder original_network_id="318" ts_id="11700" frequency="10853000" symbol_rate="27000000" polarisation="H" />
+        <transponder original_network_id="176" ts_id="11800" frequency="10873000" symbol_rate="27500000" polarisation="V" />
+        <transponder original_network_id="318" ts_id="11900" frequency="10892000" symbol_rate="27500000" polarisation="H" />
+        <transponder original_network_id="318" ts_id="12000" frequency="10911000" symbol_rate="27500000" polarisation="V" />
+        <transponder original_network_id="318" ts_id="12100" frequency="10930000" symbol_rate="30000000" polarisation="H" />
+        <transponder original_network_id="318" ts_id="12200" frequency="10949000" symbol_rate="27500000" polarisation="V" />
+        <transponder original_network_id="318" ts_id="12300" frequency="10971000" symbol_rate="29700000" polarisation="H" />
+        <transponder original_network_id="318" ts_id="12400" frequency="10992000" symbol_rate="27500000" polarisation="V" />
+        <transponder original_network_id="318" ts_id="12500" frequency="11013000" symbol_rate="29900000" polarisation="H" />
+        <transponder original_network_id="318" ts_id="12600" frequency="11034000" symbol_rate="27500000" polarisation="V" />
+        <transponder original_network_id="318" ts_id="12700" frequency="11054000" symbol_rate="27500000" polarisation="H" />
+        <transponder original_network_id="318" ts_id="12800" frequency="11075000" symbol_rate="30000000" polarisation="V" />
+        <transponder original_network_id="318" ts_id="12900" frequency="11096000" symbol_rate="30000000" polarisation="H" />
+        <transponder original_network_id="318" ts_id="13000" frequency="11117000" symbol_rate="27500000" polarisation="V" />
+        <transponder original_network_id="318" ts_id="13100" frequency="11137000" symbol_rate="27500000" polarisation="H" />
+        <transponder original_network_id="113" ts_id="13200" frequency="11158000" symbol_rate="27500000" polarisation="V" />
+        <transponder original_network_id="318" ts_id="13300" frequency="11179000" symbol_rate="27500000" polarisation="H" />
+        <transponder original_network_id="318" ts_id="13400" frequency="11200000" symbol_rate="27500000" polarisation="V" />
+        <transponder original_network_id="85" ts_id="94" frequency="11219000" symbol_rate="29900000" polarisation="H" />
+        <transponder original_network_id="318" ts_id="200" frequency="11240000" symbol_rate="27500000" polarisation="V" />
+        <transponder original_network_id="318" ts_id="300" frequency="11258000" symbol_rate="27500000" polarisation="H" />
+        <transponder original_network_id="318" ts_id="400" frequency="11278000" symbol_rate="27500000" polarisation="V" />
+        <transponder original_network_id="318" ts_id="500" frequency="11296000" symbol_rate="27500000" polarisation="H" />
+        <transponder original_network_id="318" ts_id="600" frequency="11316000" symbol_rate="27500000" polarisation="V" />
+        <transponder original_network_id="318" ts_id="700" frequency="11334000" symbol_rate="27500000" polarisation="H" />
+        <transponder original_network_id="64511" ts_id="800" frequency="11355000" symbol_rate="29900000" polarisation="V" />
+        <transponder original_network_id="318" ts_id="900" frequency="11373000" symbol_rate="27500000" polarisation="H" />
+        <transponder original_network_id="318" ts_id="1000" frequency="11393000" symbol_rate="27500000" polarisation="V" />
+        <transponder original_network_id="318" ts_id="1100" frequency="11411000" symbol_rate="27500000" polarisation="H" />
+        <transponder original_network_id="272" ts_id="1200" frequency="11432000" symbol_rate="29900000" polarisation="V" />
+        <transponder original_network_id="318" ts_id="1300" frequency="11449000" symbol_rate="27500000" polarisation="H" />
+        <transponder original_network_id="318" ts_id="1400" frequency="11470000" symbol_rate="27500000" polarisation="V" />
+        <transponder original_network_id="318" ts_id="1500" frequency="11487000" symbol_rate="27500000" polarisation="H" />
+        <transponder original_network_id="318" ts_id="1600" frequency="11508000" symbol_rate="27500000" polarisation="V" />
+        <transponder original_network_id="318" ts_id="1700" frequency="11526000" symbol_rate="29700000" polarisation="H" />
+        <transponder original_network_id="200" ts_id="1800" frequency="11541000" symbol_rate="22000000" polarisation="V" />
+        <transponder original_network_id="318" ts_id="15300" frequency="11565000" symbol_rate="29900000" polarisation="H" />
+        <transponder original_network_id="318" ts_id="15400" frequency="11585000" symbol_rate="27500000" polarisation="V" />
+        <transponder original_network_id="318" ts_id="15500" frequency="11604000" symbol_rate="27500000" polarisation="H" />
+        <transponder original_network_id="318" ts_id="15600" frequency="11623000" symbol_rate="27500000" polarisation="V" />
+        <transponder original_network_id="318" ts_id="15700" frequency="11642000" symbol_rate="27500000" polarisation="H" />
+        <transponder original_network_id="318" ts_id="15800" frequency="11662000" symbol_rate="27500000" polarisation="V" />
+        <transponder original_network_id="319" ts_id="15900" frequency="11681000" symbol_rate="27500000" polarisation="H" />
+        <transponder original_network_id="318" ts_id="5000" frequency="11727000" symbol_rate="29900000" polarisation="V" />
+        <transponder original_network_id="318" ts_id="5103" frequency="11747000" symbol_rate="27500000" polarisation="H" />
+        <transponder original_network_id="318" ts_id="5200" frequency="11766000" symbol_rate="29900000" polarisation="V" />
+        <transponder original_network_id="64511" ts_id="5300" frequency="11785000" symbol_rate="29900000" polarisation="H" />
+        <transponder original_network_id="65535" ts_id="1" frequency="11804000" symbol_rate="27500000" polarisation="V" />
+        <transponder original_network_id="318" ts_id="5500" frequency="11823000" symbol_rate="27500000" polarisation="H" />
+        <transponder original_network_id="64511" ts_id="5600" frequency="11842000" symbol_rate="29900000" polarisation="V" />
+        <transponder original_network_id="64511" ts_id="5700" frequency="11862000" symbol_rate="29900000" polarisation="H" />
+        <transponder original_network_id="64511" ts_id="5800" frequency="11881000" symbol_rate="27500000" polarisation="V" />
+        <transponder original_network_id="64511" ts_id="5900" frequency="11900000" symbol_rate="29900000" polarisation="H" />
+        <transponder original_network_id="272" ts_id="6000" frequency="11919000" symbol_rate="29900000" polarisation="V" />
+        <transponder original_network_id="318" ts_id="6100" frequency="11938000" symbol_rate="27500000" polarisation="H" />
+        <transponder original_network_id="64511" ts_id="6200" frequency="11958000" symbol_rate="27500000" polarisation="V" />
+        <transponder original_network_id="64511" ts_id="6300" frequency="11977000" symbol_rate="29900000" polarisation="H" />
+        <transponder original_network_id="64511" ts_id="6400" frequency="11996000" symbol_rate="29900000" polarisation="V" />
+        <transponder original_network_id="318" ts_id="6500" frequency="12015000" symbol_rate="27500000" polarisation="H" />
+        <transponder original_network_id="64511" ts_id="6600" frequency="12034000" symbol_rate="29900000" polarisation="V" />
+        <transponder original_network_id="64511" ts_id="6700" frequency="12054000" symbol_rate="29900000" polarisation="H" />
+    </satellite>
+    <satellite name="Eutelsat 16.0E"
+               longitude="160"
+               lof_hi="10600000"
+               lof_lo="9750000"
+               lof_threshold="11700000"
+               lnb_power="13/18v"
+               signal_22khz="auto"
+               toneburst="none"
+               diseqc1_0="none"
+               diseqc1_1="none"
+               motor="none">
+        <transponder original_network_id="366" ts_id="24100" frequency="10721000" symbol_rate="30000000" polarisation="H" />
+        <transponder original_network_id="366" ts_id="20300" frequency="10762000" symbol_rate="30000000" polarisation="H" />
+        <transponder original_network_id="366" ts_id="20500" frequency="10803000" symbol_rate="29950000" polarisation="H" />
+        <transponder original_network_id="366" ts_id="20700" frequency="10845000" symbol_rate="30000000" polarisation="H" />
+        <transponder original_network_id="366" ts_id="20900" frequency="10886000" symbol_rate="30000000" polarisation="H" />
+        <transponder original_network_id="366" ts_id="21100" frequency="10928000" symbol_rate="30000000" polarisation="H" />
+        <transponder original_network_id="65535" ts_id="1" frequency="10957000" symbol_rate="3333000" polarisation="H" />
+        <transponder original_network_id="366" ts_id="30203" frequency="10972000" symbol_rate="27500000" polarisation="V" />
+        <transponder original_network_id="0" ts_id="0" frequency="10986000" symbol_rate="5500000" polarisation="H" />
+        <transponder original_network_id="1" ts_id="1" frequency="10993000" symbol_rate="2506000" polarisation="H" />
+        <transponder original_network_id="366" ts_id="30204" frequency="11010000" symbol_rate="27500000" polarisation="V" />
+        <transponder original_network_id="1" ts_id="1" frequency="11048000" symbol_rate="14000000" polarisation="H" />
+        <transponder original_network_id="65535" ts_id="1" frequency="11055000" symbol_rate="2894000" polarisation="H" />
+        <transponder original_network_id="366" ts_id="30400" frequency="11055000" symbol_rate="27500000" polarisation="V" />
+        <transponder original_network_id="1" ts_id="1" frequency="11069000" symbol_rate="354000" polarisation="H" />
+        <transponder original_network_id="1" ts_id="17168" frequency="11069000" symbol_rate="376000" polarisation="H" />
+        <transponder original_network_id="1" ts_id="17152" frequency="11070000" symbol_rate="274000" polarisation="H" />
+        <transponder original_network_id="0" ts_id="0" frequency="11071000" symbol_rate="547000" polarisation="H" />
+        <transponder original_network_id="366" ts_id="30401" frequency="11093000" symbol_rate="27500000" polarisation="V" />
+        <transponder original_network_id="0" ts_id="0" frequency="11131000" symbol_rate="16593000" polarisation="V" />
+        <transponder original_network_id="366" ts_id="52012" frequency="11151000" symbol_rate="14375000" polarisation="V" />
+        <transponder original_network_id="366" ts_id="368" frequency="11157000" symbol_rate="45000000" polarisation="H" />
+        <transponder original_network_id="366" ts_id="52011" frequency="11177000" symbol_rate="30000000" polarisation="V" />
+        <transponder original_network_id="366" ts_id="40100" frequency="11220000" symbol_rate="30000000" polarisation="H" />
+        <transponder original_network_id="366" ts_id="40200" frequency="11231000" symbol_rate="42000000" polarisation="V" />
+        <transponder original_network_id="366" ts_id="1" frequency="11262000" symbol_rate="30000000" polarisation="H" />
+        <transponder original_network_id="366" ts_id="40400" frequency="11283000" symbol_rate="30000000" polarisation="V" />
+        <transponder original_network_id="366" ts_id="2" frequency="11304000" symbol_rate="30000000" polarisation="H" />
+        <transponder original_network_id="366" ts_id="40600" frequency="11324000" symbol_rate="30000000" polarisation="V" />
+        <transponder original_network_id="366" ts_id="24100" frequency="11345000" symbol_rate="30000000" polarisation="H" />
+        <transponder original_network_id="366" ts_id="40800" frequency="11366000" symbol_rate="30000000" polarisation="V" />
+        <transponder original_network_id="366" ts_id="40900" frequency="11386000" symbol_rate="30000000" polarisation="H" />
+        <transponder original_network_id="366" ts_id="362" frequency="11400000" symbol_rate="13846000" polarisation="V" />
+        <transponder original_network_id="366" ts_id="360" frequency="11427000" symbol_rate="27500000" polarisation="V" />
+        <transponder original_network_id="366" ts_id="50100" frequency="11470000" symbol_rate="30000000" polarisation="H" />
+        <transponder original_network_id="366" ts_id="50200" frequency="11470000" symbol_rate="30000000" polarisation="V" />
+        <transponder original_network_id="64" ts_id="1" frequency="11512000" symbol_rate="30000000" polarisation="H" />
+        <transponder original_network_id="1" ts_id="200" frequency="11512000" symbol_rate="29950000" polarisation="V" />
+        <transponder original_network_id="366" ts_id="50500" frequency="11553000" symbol_rate="30000000" polarisation="H" />
+        <transponder original_network_id="366" ts_id="50600" frequency="11554000" symbol_rate="30000000" polarisation="V" />
+        <transponder original_network_id="64" ts_id="2" frequency="11595000" symbol_rate="30000000" polarisation="H" />
+        <transponder original_network_id="366" ts_id="50800" frequency="11595000" symbol_rate="30000000" polarisation="V" />
+        <transponder original_network_id="366" ts_id="51000" frequency="11636000" symbol_rate="30000000" polarisation="V" />
+        <transponder original_network_id="366" ts_id="50900" frequency="11637000" symbol_rate="30000000" polarisation="H" />
+        <transponder original_network_id="64" ts_id="3" frequency="11678000" symbol_rate="30000000" polarisation="H" />
+        <transponder original_network_id="5" ts_id="5212" frequency="12516000" symbol_rate="19365000" polarisation="V" />
+        <transponder original_network_id="1" ts_id="1" frequency="12543000" symbol_rate="19970000" polarisation="V" />
+        <transponder original_network_id="100" ts_id="100" frequency="12559000" symbol_rate="2222000" polarisation="V" />
+        <transponder original_network_id="1" ts_id="1" frequency="12564000" symbol_rate="3617000" polarisation="V" />
+        <transponder original_network_id="65535" ts_id="1" frequency="12569000" symbol_rate="3703000" polarisation="H" />
+        <transponder original_network_id="1907" ts_id="1907" frequency="12574000" symbol_rate="6500000" polarisation="V" />
+        <transponder original_network_id="1" ts_id="2680" frequency="12593000" symbol_rate="2500000" polarisation="V" />
+        <transponder original_network_id="65535" ts_id="1" frequency="12596000" symbol_rate="2848000" polarisation="V" />
+        <transponder original_network_id="65280" ts_id="17033" frequency="12605000" symbol_rate="30000000" polarisation="H" />
+        <transponder original_network_id="1" ts_id="1" frequency="12618000" symbol_rate="5750000" polarisation="V" />
+        <transponder original_network_id="65535" ts_id="1" frequency="12632000" symbol_rate="4883000" polarisation="V" />
+        <transponder original_network_id="366" ts_id="1" frequency="12639000" symbol_rate="10833000" polarisation="H" />
+        <transponder original_network_id="5" ts_id="500" frequency="12643000" symbol_rate="27500000" polarisation="V" />
+        <transponder original_network_id="65535" ts_id="101" frequency="12653000" symbol_rate="11111000" polarisation="H" />
+        <transponder original_network_id="65535" ts_id="1" frequency="12656000" symbol_rate="4883000" polarisation="V" />
+        <transponder original_network_id="0" ts_id="160" frequency="12660000" symbol_rate="2222000" polarisation="H" />
+        <transponder original_network_id="65535" ts_id="1" frequency="12676000" symbol_rate="2667000" polarisation="H" />
+        <transponder original_network_id="17627" ts_id="17627" frequency="12678000" symbol_rate="330000" polarisation="H" />
+        <transponder original_network_id="17627" ts_id="17627" frequency="12680000" symbol_rate="334000" polarisation="H" />
+        <transponder original_network_id="1" ts_id="1" frequency="12694000" symbol_rate="2220000" polarisation="H" />
+        <transponder original_network_id="1" ts_id="101" frequency="12699000" symbol_rate="9880000" polarisation="H" />
+        <transponder original_network_id="100" ts_id="100" frequency="12717000" symbol_rate="7500000" polarisation="H" />
+        <transponder original_network_id="2" ts_id="2" frequency="12730000" symbol_rate="6000000" polarisation="H" />
+        <transponder original_network_id="100" ts_id="176" frequency="12737000" symbol_rate="2255000" polarisation="H" />
+    </satellite>
+    <satellite name="Astra 19.2E"
+               longitude="192"
+               lof_hi="10600000"
+               lof_lo="9750000"
+               lof_threshold="11700000"
+               lnb_power="13/18v"
+               signal_22khz="auto"
+               toneburst="none"
+               diseqc1_0="none"
+               diseqc1_1="none"
+               motor="none">
+        <transponder original_network_id="1" ts_id="1049" frequency="10714000" symbol_rate="22000000" polarisation="H" />
+        <transponder original_network_id="1" ts_id="1050" frequency="10729000" symbol_rate="22000000" polarisation="V" />
+        <transponder original_network_id="1" ts_id="1051" frequency="10743000" symbol_rate="22000000" polarisation="H" />
+        <transponder original_network_id="1" ts_id="1052" frequency="10758000" symbol_rate="22000000" polarisation="V" />
+        <transponder original_network_id="1" ts_id="1053" frequency="10773000" symbol_rate="22000000" polarisation="H" />
+        <transponder original_network_id="1" ts_id="1054" frequency="10788000" symbol_rate="22000000" polarisation="V" />
+        <transponder original_network_id="1" ts_id="1055" frequency="10802000" symbol_rate="22000000" polarisation="H" />
+        <transponder original_network_id="1" ts_id="1056" frequency="10817000" symbol_rate="22000000" polarisation="V" />
+        <transponder original_network_id="1" ts_id="1057" frequency="10832000" symbol_rate="22000000" polarisation="H" />
+        <transponder original_network_id="1" ts_id="1058" frequency="10847000" symbol_rate="22000000" polarisation="V" />
+        <transponder original_network_id="1" ts_id="1059" frequency="10861000" symbol_rate="23500000" polarisation="H" />
+        <transponder original_network_id="1" ts_id="1060" frequency="10876000" symbol_rate="22000000" polarisation="V" />
+        <transponder original_network_id="1" ts_id="1061" frequency="10891000" symbol_rate="22000000" polarisation="H" />
+        <transponder original_network_id="1" ts_id="1062" frequency="10906000" symbol_rate="22000000" polarisation="V" />
+        <transponder original_network_id="133" ts_id="15" frequency="10920000" symbol_rate="22000000" polarisation="H" />
+        <transponder original_network_id="1" ts_id="1064" frequency="10935000" symbol_rate="22000000" polarisation="V" />
+        <transponder original_network_id="1" ts_id="1033" frequency="10964000" symbol_rate="22000000" polarisation="H" />
+        <transponder original_network_id="1" ts_id="1034" frequency="10979000" symbol_rate="22000000" polarisation="V" />
+        <transponder original_network_id="1" ts_id="1035" frequency="10993000" symbol_rate="22000000" polarisation="H" />
+        <transponder original_network_id="0" ts_id="0" frequency="11008000" symbol_rate="22000000" polarisation="V" />
+        <transponder original_network_id="1" ts_id="1037" frequency="11023000" symbol_rate="23500000" polarisation="H" />
+        <transponder original_network_id="1" ts_id="1038" frequency="11038000" symbol_rate="22000000" polarisation="V" />
+        <transponder original_network_id="1" ts_id="1039" frequency="11052000" symbol_rate="22000000" polarisation="H" />
+        <transponder original_network_id="1" ts_id="1040" frequency="11067000" symbol_rate="22000000" polarisation="V" />
+        <transponder original_network_id="1" ts_id="1041" frequency="11082000" symbol_rate="22000000" polarisation="H" />
+        <transponder original_network_id="1" ts_id="1042" frequency="11097000" symbol_rate="22000000" polarisation="V" />
+        <transponder original_network_id="1" ts_id="1043" frequency="11111000" symbol_rate="22000000" polarisation="H" />
+        <transponder original_network_id="1" ts_id="1044" frequency="11126000" symbol_rate="22000000" polarisation="V" />
+        <transponder original_network_id="1" ts_id="1045" frequency="11141000" symbol_rate="22000000" polarisation="H" />
+        <transponder original_network_id="1" ts_id="1046" frequency="11156000" symbol_rate="22000000" polarisation="V" />
+        <transponder original_network_id="133" ts_id="9" frequency="11170000" symbol_rate="22000000" polarisation="H" />
+        <transponder original_network_id="1" ts_id="1048" frequency="11185000" symbol_rate="22000000" polarisation="V" />
+        <transponder original_network_id="1" ts_id="1001" frequency="11214000" symbol_rate="22000000" polarisation="H" />
+        <transponder original_network_id="1" ts_id="1002" frequency="11229000" symbol_rate="22000000" polarisation="V" />
+        <transponder original_network_id="1" ts_id="1003" frequency="11243000" symbol_rate="22000000" polarisation="H" />
+        <transponder original_network_id="1" ts_id="1004" frequency="11258000" symbol_rate="22000000" polarisation="V" />
+        <transponder original_network_id="1" ts_id="1005" frequency="11273000" symbol_rate="22000000" polarisation="H" />
+        <transponder original_network_id="1" ts_id="1006" frequency="11288000" symbol_rate="22000000" polarisation="V" />
+        <transponder original_network_id="1" ts_id="1007" frequency="11302000" symbol_rate="22000000" polarisation="H" />
+        <transponder original_network_id="1" ts_id="1008" frequency="11317000" symbol_rate="22000000" polarisation="V" />
+        <transponder original_network_id="4369" ts_id="5" frequency="11332000" symbol_rate="22000000" polarisation="H" />
+        <transponder original_network_id="1" ts_id="1010" frequency="11347000" symbol_rate="22000000" polarisation="V" />
+        <transponder original_network_id="1" ts_id="1011" frequency="11361000" symbol_rate="22000000" polarisation="H" />
+        <transponder original_network_id="1" ts_id="1012" frequency="11376000" symbol_rate="22000000" polarisation="V" />
+        <transponder original_network_id="1" ts_id="1013" frequency="11391000" symbol_rate="22000000" polarisation="H" />
+        <transponder original_network_id="1" ts_id="1014" frequency="11406000" symbol_rate="22000000" polarisation="V" />
+        <transponder original_network_id="1" ts_id="1015" frequency="11420000" symbol_rate="22000000" polarisation="H" />
+        <transponder original_network_id="1" ts_id="1016" frequency="11435000" symbol_rate="22000000" polarisation="V" />
+        <transponder original_network_id="1" ts_id="1017" frequency="11464000" symbol_rate="22000000" polarisation="H" />
+        <transponder original_network_id="1" ts_id="1018" frequency="11479000" symbol_rate="22000000" polarisation="V" />
+        <transponder original_network_id="1" ts_id="1019" frequency="11493000" symbol_rate="22000000" polarisation="H" />
+        <transponder original_network_id="1" ts_id="1020" frequency="11508000" symbol_rate="22000000" polarisation="V" />
+        <transponder original_network_id="1" ts_id="1021" frequency="11523000" symbol_rate="22000000" polarisation="H" />
+        <transponder original_network_id="1" ts_id="1022" frequency="11538000" symbol_rate="22000000" polarisation="V" />
+        <transponder original_network_id="1" ts_id="1023" frequency="11552000" symbol_rate="22000000" polarisation="H" />
+        <transponder original_network_id="1" ts_id="1024" frequency="11567000" symbol_rate="23000000" polarisation="V" />
+        <transponder original_network_id="1" ts_id="1025" frequency="11582000" symbol_rate="22000000" polarisation="H" />
+        <transponder original_network_id="1" ts_id="1026" frequency="11597000" symbol_rate="22000000" polarisation="V" />
+        <transponder original_network_id="1" ts_id="1027" frequency="11611000" symbol_rate="22000000" polarisation="H" />
+        <transponder original_network_id="1" ts_id="1028" frequency="11626000" symbol_rate="22000000" polarisation="V" />
+        <transponder original_network_id="1" ts_id="1029" frequency="11641000" symbol_rate="22000000" polarisation="H" />
+        <transponder original_network_id="1" ts_id="1030" frequency="11656000" symbol_rate="22000000" polarisation="V" />
+        <transponder original_network_id="1" ts_id="1031" frequency="11670000" symbol_rate="22000000" polarisation="H" />
+        <transponder original_network_id="1" ts_id="1032" frequency="11685000" symbol_rate="22000000" polarisation="V" />
+        <transponder original_network_id="133" ts_id="3" frequency="11719000" symbol_rate="27500000" polarisation="H" />
+        <transponder original_network_id="1" ts_id="1066" frequency="11739000" symbol_rate="27500000" polarisation="V" />
+        <transponder original_network_id="133" ts_id="2" frequency="11758000" symbol_rate="27500000" polarisation="H" />
+        <transponder original_network_id="1" ts_id="1068" frequency="11778000" symbol_rate="29500000" polarisation="V" />
+        <transponder original_network_id="133" ts_id="16" frequency="11797000" symbol_rate="27500000" polarisation="H" />
+        <transponder original_network_id="1" ts_id="1070" frequency="11817000" symbol_rate="29700000" polarisation="V" />
+        <transponder original_network_id="1" ts_id="1101" frequency="11836000" symbol_rate="27500000" polarisation="H" />
+        <transponder original_network_id="1" ts_id="1072" frequency="11856000" symbol_rate="29700000" polarisation="V" />
+        <transponder original_network_id="133" ts_id="14" frequency="11875000" symbol_rate="27500000" polarisation="H" />
+        <transponder original_network_id="1" ts_id="1074" frequency="11895000" symbol_rate="29700000" polarisation="V" />
+        <transponder original_network_id="133" ts_id="6" frequency="11914000" symbol_rate="27500000" polarisation="H" />
+        <transponder original_network_id="1" ts_id="1076" frequency="11934000" symbol_rate="29700000" polarisation="V" />
+        <transponder original_network_id="1" ts_id="1079" frequency="11953000" symbol_rate="27500000" polarisation="H" />
+        <transponder original_network_id="1" ts_id="1078" frequency="11973000" symbol_rate="27500000" polarisation="V" />
+        <transponder original_network_id="133" ts_id="13" frequency="11992000" symbol_rate="27500000" polarisation="H" />
+        <transponder original_network_id="1" ts_id="1080" frequency="12012000" symbol_rate="29700000" polarisation="V" />
+        <transponder original_network_id="133" ts_id="4" frequency="12031000" symbol_rate="27500000" polarisation="H" />
+        <transponder original_network_id="1" ts_id="1082" frequency="12051000" symbol_rate="27500000" polarisation="V" />
+        <transponder original_network_id="133" ts_id="8" frequency="12070000" symbol_rate="27500000" polarisation="H" />
+        <transponder original_network_id="1" ts_id="1084" frequency="12090000" symbol_rate="29700000" polarisation="V" />
+        <transponder original_network_id="1" ts_id="1073" frequency="12109000" symbol_rate="27500000" polarisation="H" />
+        <transponder original_network_id="1" ts_id="1086" frequency="12129000" symbol_rate="29700000" polarisation="V" />
+        <transponder original_network_id="133" ts_id="7" frequency="12148000" symbol_rate="27500000" polarisation="H" />
+        <transponder original_network_id="1" ts_id="1088" frequency="12168000" symbol_rate="29700000" polarisation="V" />
+        <transponder original_network_id="1" ts_id="1089" frequency="12187000" symbol_rate="27500000" polarisation="H" />
+        <transponder original_network_id="1" ts_id="1090" frequency="12207000" symbol_rate="29700000" polarisation="V" />
+        <transponder original_network_id="1" ts_id="1091" frequency="12226000" symbol_rate="27500000" polarisation="H" />
+        <transponder original_network_id="1" ts_id="1092" frequency="12246000" symbol_rate="29700000" polarisation="V" />
+        <transponder original_network_id="1" ts_id="1093" frequency="12265000" symbol_rate="27500000" polarisation="H" />
+        <transponder original_network_id="1" ts_id="1094" frequency="12285000" symbol_rate="29700000" polarisation="V" />
+        <transponder original_network_id="133" ts_id="12" frequency="12304000" symbol_rate="27500000" polarisation="H" />
+        <transponder original_network_id="1" ts_id="1096" frequency="12324000" symbol_rate="29700000" polarisation="V" />
+        <transponder original_network_id="1" ts_id="1097" frequency="12343000" symbol_rate="30000000" polarisation="H" />
+        <transponder original_network_id="1" ts_id="1098" frequency="12363000" symbol_rate="27500000" polarisation="V" />
+        <transponder original_network_id="133" ts_id="11" frequency="12382000" symbol_rate="27500000" polarisation="H" />
+        <transponder original_network_id="1" ts_id="1100" frequency="12402000" symbol_rate="29700000" polarisation="V" />
+        <transponder original_network_id="1" ts_id="1201" frequency="12421000" symbol_rate="27500000" polarisation="H" />
+        <transponder original_network_id="1" ts_id="1102" frequency="12441000" symbol_rate="29700000" polarisation="V" />
+        <transponder original_network_id="133" ts_id="5" frequency="12460000" symbol_rate="27500000" polarisation="H" />
+    </satellite>
+    <satellite name="Thor 0.8W"
+               longitude="-8"
+               lof_hi="10600000"
+               lof_lo="9750000"
+               lof_threshold="11700000"
+               lnb_power="13/18v"
+               signal_22khz="auto"
+               toneburst="none"
+               diseqc1_0="none"
+               diseqc1_1="none"
+               motor="none">
+        <transponder original_network_id="70" ts_id="71" frequency="10716000" symbol_rate="25000000" polarisation="H" />
+        <transponder original_network_id="70" ts_id="1" frequency="10716000" symbol_rate="25000000" polarisation="V" />
+        <transponder original_network_id="70" ts_id="68" frequency="10747000" symbol_rate="25000000" polarisation="H" />
+        <transponder original_network_id="70" ts_id="70" frequency="10747000" symbol_rate="25000000" polarisation="V" />
+        <transponder original_network_id="70" ts_id="66" frequency="10778000" symbol_rate="25000000" polarisation="H" />
+        <transponder original_network_id="70" ts_id="67" frequency="10778000" symbol_rate="25000000" polarisation="V" />
+        <transponder original_network_id="70" ts_id="65" frequency="10809000" symbol_rate="25000000" polarisation="H" />
+        <transponder original_network_id="70" ts_id="62" frequency="10809000" symbol_rate="25000000" polarisation="V" />
+        <transponder original_network_id="70" ts_id="63" frequency="10841000" symbol_rate="25000000" polarisation="H" />
+        <transponder original_network_id="70" ts_id="64" frequency="10841000" symbol_rate="25000000" polarisation="V" />
+        <transponder original_network_id="70" ts_id="72" frequency="10872000" symbol_rate="25000000" polarisation="H" />
+        <transponder original_network_id="70" ts_id="61" frequency="10872000" symbol_rate="25000000" polarisation="V" />
+        <transponder original_network_id="70" ts_id="48" frequency="10903000" symbol_rate="25000000" polarisation="H" />
+        <transponder original_network_id="70" ts_id="69" frequency="10903000" symbol_rate="25000000" polarisation="V" />
+        <transponder original_network_id="70" ts_id="14" frequency="10934000" symbol_rate="25000000" polarisation="H" />
+        <transponder original_network_id="70" ts_id="10" frequency="10934000" symbol_rate="25000000" polarisation="V" />
+        <transponder original_network_id="1" ts_id="1" frequency="10987000" symbol_rate="5632000" polarisation="V" />
+        <transponder original_network_id="0" ts_id="0" frequency="11006000" symbol_rate="6111000" polarisation="V" />
+        <transponder original_network_id="65535" ts_id="1" frequency="11065000" symbol_rate="1500000" polarisation="H" />
+        <transponder original_network_id="1" ts_id="1" frequency="11164000" symbol_rate="1450000" polarisation="V" />
+        <transponder original_network_id="1" ts_id="1" frequency="11172000" symbol_rate="6111000" polarisation="V" />
+        <transponder original_network_id="1" ts_id="68" frequency="11188000" symbol_rate="1005000" polarisation="V" />
+        <transponder original_network_id="1" ts_id="68" frequency="11189000" symbol_rate="1005000" polarisation="V" />
+        <transponder original_network_id="70" ts_id="27" frequency="11216000" symbol_rate="25000000" polarisation="V" />
+        <transponder original_network_id="70" ts_id="4" frequency="11229000" symbol_rate="25000000" polarisation="H" />
+        <transponder original_network_id="70" ts_id="1" frequency="11247000" symbol_rate="24500000" polarisation="V" />
+        <transponder original_network_id="70" ts_id="33" frequency="11261000" symbol_rate="25000000" polarisation="H" />
+        <transponder original_network_id="70" ts_id="3" frequency="11278000" symbol_rate="25000000" polarisation="V" />
+        <transponder original_network_id="70" ts_id="24" frequency="11293000" symbol_rate="25000000" polarisation="H" />
+        <transponder original_network_id="70" ts_id="2" frequency="11309000" symbol_rate="25000000" polarisation="V" />
+        <transponder original_network_id="70" ts_id="25" frequency="11325000" symbol_rate="25000000" polarisation="H" />
+        <transponder original_network_id="70" ts_id="43" frequency="11341000" symbol_rate="25000000" polarisation="V" />
+        <transponder original_network_id="70" ts_id="32" frequency="11357000" symbol_rate="24500000" polarisation="H" />
+        <transponder original_network_id="70" ts_id="35" frequency="11372000" symbol_rate="25000000" polarisation="V" />
+        <transponder original_network_id="70" ts_id="34" frequency="11389000" symbol_rate="24500000" polarisation="H" />
+        <transponder original_network_id="70" ts_id="28" frequency="11403000" symbol_rate="25000000" polarisation="V" />
+        <transponder original_network_id="70" ts_id="44" frequency="11421000" symbol_rate="25000000" polarisation="H" />
+        <transponder original_network_id="70" ts_id="45" frequency="11434000" symbol_rate="24500000" polarisation="V" />
+        <transponder original_network_id="65535" ts_id="1" frequency="11463000" symbol_rate="6111000" polarisation="V" />
+        <transponder original_network_id="0" ts_id="0" frequency="11473000" symbol_rate="6111000" polarisation="V" />
+        <transponder original_network_id="65535" ts_id="1" frequency="11481000" symbol_rate="6111000" polarisation="V" />
+        <transponder original_network_id="0" ts_id="0" frequency="11487000" symbol_rate="3100000" polarisation="V" />
+        <transponder original_network_id="65535" ts_id="1" frequency="11490000" symbol_rate="6111000" polarisation="V" />
+        <transponder original_network_id="1" ts_id="1" frequency="11497000" symbol_rate="3200000" polarisation="V" />
+        <transponder original_network_id="65535" ts_id="1" frequency="11502000" symbol_rate="3200000" polarisation="V" />
+        <transponder original_network_id="0" ts_id="1" frequency="11525000" symbol_rate="22035000" polarisation="V" />
+        <transponder original_network_id="65535" ts_id="1" frequency="11542000" symbol_rate="3470000" polarisation="V" />
+        <transponder original_network_id="65535" ts_id="1" frequency="11548000" symbol_rate="3472000" polarisation="V" />
+        <transponder original_network_id="1" ts_id="1" frequency="11553000" symbol_rate="6111000" polarisation="V" />
+        <transponder original_network_id="65535" ts_id="1" frequency="11675000" symbol_rate="3207000" polarisation="V" />
+        <transponder original_network_id="1536" ts_id="701" frequency="11727000" symbol_rate="28000000" polarisation="V" />
+        <transponder original_network_id="4369" ts_id="5" frequency="11747000" symbol_rate="28000000" polarisation="H" />
+        <transponder original_network_id="1536" ts_id="702" frequency="11766000" symbol_rate="28000000" polarisation="V" />
+        <transponder original_network_id="1" ts_id="5" frequency="11785000" symbol_rate="28000000" polarisation="H" />
+        <transponder original_network_id="1536" ts_id="703" frequency="11804000" symbol_rate="30000000" polarisation="V" />
+        <transponder original_network_id="1" ts_id="13" frequency="11823000" symbol_rate="30000000" polarisation="H" />
+        <transponder original_network_id="1536" ts_id="710" frequency="11843000" symbol_rate="30000000" polarisation="V" />
+        <transponder original_network_id="1" ts_id="7" frequency="11862000" symbol_rate="28000000" polarisation="H" />
+        <transponder original_network_id="70" ts_id="83" frequency="11881000" symbol_rate="30000000" polarisation="V" />
+        <transponder original_network_id="1" ts_id="12" frequency="11900000" symbol_rate="28000000" polarisation="H" />
+        <transponder original_network_id="1536" ts_id="711" frequency="11919000" symbol_rate="28000000" polarisation="V" />
+        <transponder original_network_id="1536" ts_id="707" frequency="11938000" symbol_rate="28000000" polarisation="H" />
+        <transponder original_network_id="1536" ts_id="712" frequency="11958000" symbol_rate="28000000" polarisation="V" />
+        <transponder original_network_id="187" ts_id="2802" frequency="11977000" symbol_rate="30000000" polarisation="H" />
+        <transponder original_network_id="1536" ts_id="704" frequency="11996000" symbol_rate="28000000" polarisation="V" />
+        <transponder original_network_id="70" ts_id="41" frequency="12015000" symbol_rate="30000000" polarisation="H" />
+        <transponder original_network_id="1536" ts_id="705" frequency="12034000" symbol_rate="30000000" polarisation="V" />
+        <transponder original_network_id="187" ts_id="2801" frequency="12054000" symbol_rate="30000000" polarisation="H" />
+        <transponder original_network_id="1536" ts_id="706" frequency="12073000" symbol_rate="28000000" polarisation="V" />
+        <transponder original_network_id="4369" ts_id="11" frequency="12092000" symbol_rate="28000000" polarisation="H" />
+        <transponder original_network_id="70" ts_id="78" frequency="12111000" symbol_rate="30000000" polarisation="V" />
+        <transponder original_network_id="1" ts_id="3" frequency="12130000" symbol_rate="28000000" polarisation="H" />
+        <transponder original_network_id="70" ts_id="76" frequency="12149000" symbol_rate="28000000" polarisation="V" />
+        <transponder original_network_id="187" ts_id="2803" frequency="12169000" symbol_rate="30000000" polarisation="H" />
+        <transponder original_network_id="1" ts_id="4" frequency="12188000" symbol_rate="28000000" polarisation="V" />
+        <transponder original_network_id="70" ts_id="82" frequency="12207000" symbol_rate="30000000" polarisation="H" />
+        <transponder original_network_id="704" ts_id="27" frequency="12226000" symbol_rate="27500000" polarisation="V" />
+        <transponder original_network_id="187" ts_id="2804" frequency="12245000" symbol_rate="30000000" polarisation="H" />
+        <transponder original_network_id="1536" ts_id="709" frequency="12265000" symbol_rate="28000000" polarisation="V" />
+        <transponder original_network_id="70" ts_id="86" frequency="12284000" symbol_rate="30000000" polarisation="H" />
+        <transponder original_network_id="94" ts_id="2" frequency="12303000" symbol_rate="27500000" polarisation="V" />
+        <transponder original_network_id="70" ts_id="85" frequency="12322000" symbol_rate="28000000" polarisation="H" />
+        <transponder original_network_id="1" ts_id="1" frequency="12341000" symbol_rate="28000000" polarisation="V" />
+        <transponder original_network_id="70" ts_id="84" frequency="12360000" symbol_rate="30000000" polarisation="H" />
+        <transponder original_network_id="187" ts_id="2806" frequency="12380000" symbol_rate="30000000" polarisation="V" />
+        <transponder original_network_id="70" ts_id="75" frequency="12399000" symbol_rate="30000000" polarisation="H" />
+        <transponder original_network_id="70" ts_id="20" frequency="12418000" symbol_rate="28000000" polarisation="V" />
+        <transponder original_network_id="70" ts_id="79" frequency="12437000" symbol_rate="30000000" polarisation="H" />
+        <transponder original_network_id="4369" ts_id="3" frequency="12456000" symbol_rate="30000000" polarisation="V" />
+        <transponder original_network_id="70" ts_id="80" frequency="12476000" symbol_rate="30000000" polarisation="H" />
+        <transponder original_network_id="1" ts_id="13" frequency="12512000" symbol_rate="2400000" polarisation="V" />
+        <transponder original_network_id="187" ts_id="2808" frequency="12527000" symbol_rate="28800000" polarisation="H" />
+        <transponder original_network_id="187" ts_id="2807" frequency="12563000" symbol_rate="28800000" polarisation="H" />
+        <transponder original_network_id="1" ts_id="10" frequency="12563000" symbol_rate="27500000" polarisation="V" />
+        <transponder original_network_id="65025" ts_id="10" frequency="12607000" symbol_rate="30000000" polarisation="H" />
+        <transponder original_network_id="1" ts_id="2" frequency="12607000" symbol_rate="26660000" polarisation="V" />
+        <transponder original_network_id="65282" ts_id="1" frequency="12643000" symbol_rate="30000000" polarisation="H" />
+        <transponder original_network_id="2" ts_id="1305" frequency="12643000" symbol_rate="28800000" polarisation="V" />
+        <transponder original_network_id="1" ts_id="1" frequency="12687000" symbol_rate="27500000" polarisation="H" />
+        <transponder original_network_id="10" ts_id="12" frequency="12705000" symbol_rate="45000000" polarisation="V" />
+    </satellite>
+</db>
